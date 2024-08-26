@@ -6,16 +6,16 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Software Engineering.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Software Engineer&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Software%20Engineer&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign=Software Engineer&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=Software%20Engineer&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_campaign=Software Engineer&utm_source=1103">
+    <a href="https://jobright.ai/?utm_campaign=Software%20Engineer&utm_source=1103">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
@@ -44,7 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, click the following sortable link below:
 </h4>
-<a href="https://newgrad-jobs.com/?selectedKey=💻%20Software%20Engineering&utm_source=1103&utm_campaign=Software Engineer">
+<a href="https://newgrad-jobs.com/?selectedKey=💻%20Software%20Engineering&utm_source=1103&utm_campaign=Software%20Engineer">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -214,8 +214,8 @@ For a complete list, click the following sortable link below:
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Experienced Software Engineer - Equity Derivatives Engineering](https://jobright-internal.com/jobs/info/66c9b92570e4613399d93ff2?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Aug 23 |
 | **[FreshRealm](https://freshrealm.com)** | **[Quality Assurance Tech](https://jobright-internal.com/jobs/info/66ac56f9e5ffe5780c3df7af?utm_campaign=Software%20Engineering&utm_source=1103)** | San Clemente, CA | On Site | Aug 23 |
 | **[HII Mission Technologies](https://tsd.huntingtoningalls.com/)** | **[Engineer 2 - Computer Engineer](https://jobright-internal.com/jobs/info/66ac13e77d9338aa434ed973?utm_campaign=Software%20Engineering&utm_source=1103)** | Dayton, OH | On Site | Aug 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Business Risk Integrated Control)](https://jobright-internal.com/jobs/info/66ab68aa665ebbd4c2364adc?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
-| ↳ | **[iOS Software Engineer Graduate](https://jobright-internal.com/jobs/info/66ab8261fdd100bc03908ef6?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
+| **[TikTok](https://www.tiktok.com)** | **[iOS Software Engineer Graduate](https://jobright-internal.com/jobs/info/66ab8261fdd100bc03908ef6?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
+| ↳ | **[Software Engineer Graduate (Business Risk Integrated Control)](https://jobright-internal.com/jobs/info/66ab68aa665ebbd4c2364adc?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
 | ↳ | **[Backend Software Engineer Graduate](https://jobright-internal.com/jobs/info/66ab8261fdd100bc03908efc?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
 | ↳ | **[iOS Software Engineer Graduate](https://jobright-internal.com/jobs/info/66ab68aa665ebbd4c2364aff?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
 | ↳ | **[Frontend Software Engineer Graduate](https://jobright-internal.com/jobs/info/66aca1a61ced114dd585c308?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
@@ -224,7 +224,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Origin](http://www.blueorigin.com)** | **[Application Developer - Creo](https://jobright-internal.com/jobs/info/66c4a3d96a768cda49a5c8d2?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | On Site | Aug 23 |
 | **[Sentry](https://www.sentry.io)** | **[Software Engineer, New Grad](https://jobright-internal.com/jobs/info/66abb27fcdf3f5cef04076ef?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Aug 23 |
 | **[Adobe](http://www.adobe.com)** | **[Software Development Engineer](https://jobright-internal.com/jobs/info/66ac5367783ce33d8c7de517?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
-| **[WorldQuant](https://www.worldquant.com)** | **[Execution Developer](https://jobright-internal.com/jobs/info/66ad026d5384f39425d6c2fc?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | On Site | Aug 23 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Application Developer - Creo](https://jobright-internal.com/jobs/info/66c32e07fdca8d861a517ca2?utm_campaign=Software%20Engineering&utm_source=1103)** | Phoenix, AZ | On Site | Aug 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate](https://jobright-internal.com/jobs/info/66adab3a61a7ac5d3177e88b?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
 | ↳ | **[Android Software Engineer Graduate](https://jobright-internal.com/jobs/info/66ac9ab3b5ca824c43943c4c?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
@@ -233,15 +232,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Graduate (Business Risk Integrated Control)](https://jobright-internal.com/jobs/info/66ab68aa665ebbd4c2364af6?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[PTC Navigate Developer](https://jobright-internal.com/jobs/info/66c4833518677c60919ce2f9?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Aug 23 |
 | ↳ | **[PTC Navigate Developer](https://jobright-internal.com/jobs/info/66c33565482a3b1025b3e1f7?utm_campaign=Software%20Engineering&utm_source=1103)** | Merritt Island, FL | On Site | Aug 23 |
+| **[WorldQuant](https://www.worldquant.com)** | **[Execution Developer](https://jobright-internal.com/jobs/info/66ac20cbed5fab398c721212?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | On Site | Aug 23 |
 | **[Datadog](https://www.datadoghq.com)** | **[Software Engineer with Systems Depth](https://jobright-internal.com/jobs/info/669096cfcbceaac4bcbddff8?utm_campaign=Software%20Engineering&utm_source=1103)** | Denver, CO | On Site | Aug 23 |
 | **[Cribl](https://www.cribl.io)** | **[Windows Platform Software Engineer](https://jobright-internal.com/jobs/info/6674ffb538794d4dc1caba19?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Aug 23 |
 | **[Tinuiti](https://tinuiti.com/)** | **[Software Engineer](https://jobright-internal.com/jobs/info/66ac20afed5fab398c720fa1?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Aug 23 |
 | **[Datadog](https://www.datadoghq.com)** | **[Software Engineer - Production Platform](https://jobright-internal.com/jobs/info/650783fd9c98294b183c5ae6?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Aug 23 |
 | **[Facebook Careers](https://www.metacareers.com/)** | **[Research Scientist - Mobile Optimization](https://jobright-internal.com/jobs/info/66b207634bbd9c8c2b97fc62?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 23 |
+| ↳ | **[ASIC Engineer, Machine Learning Architecture](https://jobright-internal.com/jobs/info/66b2106cc2eb02179c75ecce?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Aug 23 |
 | ↳ | **[ASIC Engineer, Machine Learning Architecture](https://jobright-internal.com/jobs/info/66b3a78723af7c9350fc0eed?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Aug 23 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Application Developer - Creo](https://jobright-internal.com/jobs/info/6690b59c1acf37e6b248090d?utm_campaign=Software%20Engineering&utm_source=1103)** | Merritt Island, FL | On Site | Aug 23 |
-| **[Facebook Careers](https://www.metacareers.com/)** | **[ASIC Engineer, Machine Learning Architecture](https://jobright-internal.com/jobs/info/66b2352e65c9526ee5459127?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Aug 23 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[PTC Navigate Developer](https://jobright-internal.com/jobs/info/66c4aad2327b4a85f0cb0c08?utm_campaign=Software%20Engineering&utm_source=1103)** | Reston, VA | On Site | Aug 23 |
+| ↳ | **[PTC Navigate Developer](https://jobright-internal.com/jobs/info/66c4aad2327b4a85f0cb0c08?utm_campaign=Software%20Engineering&utm_source=1103)** | Reston, VA | On Site | Aug 23 |
 | ↳ | **[Application Developer - Creo](https://jobright-internal.com/jobs/info/6690d05db9480c9896c8fc8a?utm_campaign=Software%20Engineering&utm_source=1103)** | Reston, VA | On Site | Aug 23 |
 | ↳ | **[PTC Navigate Developer](https://jobright-internal.com/jobs/info/6690b59c1acf37e6b2480910?utm_campaign=Software%20Engineering&utm_source=1103)** | Denver, CO | On Site | Aug 23 |
 | **[Supermicro](http://www.supermicro.com)** | **[Software Engineer - Production](https://jobright-internal.com/jobs/info/6690ed5d846a28253796e460?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 23 |
@@ -280,8 +280,8 @@ For a complete list, click the following sortable link below:
 | **[NIO](https://www.nio.com)** | **[Large Model Algorithm Engineer/Developer](https://jobright-internal.com/jobs/info/66c7ad2af46fd3ef1628e055?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco Bay Area | On Site | Aug 22 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Software Engineer I, Software Reliability & Operations](https://jobright-internal.com/jobs/info/66c7c71aac94cccc72440a4e?utm_campaign=Software%20Engineering&utm_source=1103)** | Charlotte, NC | On Site | Aug 22 |
 | ↳ | **[Software Engineer I, Software Reliability & Operations](https://jobright-internal.com/jobs/info/66c7c71aac94cccc72440a4f?utm_campaign=Software%20Engineering&utm_source=1103)** | Cecil, AR | On Site | Aug 22 |
-| ↳ | **[Software Engineer I, Software Reliability & Operations](https://jobright-internal.com/jobs/info/66c7c71aac94cccc72440a51?utm_campaign=Software%20Engineering&utm_source=1103)** | Canonsburg, PA | On Site | Aug 22 |
 | ↳ | **[Software Engineer I, Software Reliability & Operations](https://jobright-internal.com/jobs/info/66c7c71aac94cccc72440a50?utm_campaign=Software%20Engineering&utm_source=1103)** | Houston, TX | On Site | Aug 22 |
+| ↳ | **[Software Engineer I, Software Reliability & Operations](https://jobright-internal.com/jobs/info/66c7c71aac94cccc72440a51?utm_campaign=Software%20Engineering&utm_source=1103)** | Canonsburg, PA | On Site | Aug 22 |
 | ↳ | **[Software Engineer I, Software Reliability & Operations](https://jobright-internal.com/jobs/info/66c7b578aebd9fd78c73a42e?utm_campaign=Software%20Engineering&utm_source=1103)** | Phoenix, AZ | On Site | Aug 22 |
 | **[Lumen Technologies](https://news.lumen.com/home)** | **[Planning Engineer II](https://jobright-internal.com/jobs/info/66c7a762d756c935b9da57fd?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Aug 22 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career C#/C.NET/Java Developer](https://jobright-internal.com/jobs/info/66c7b564ae5df64bac3c0b01?utm_campaign=Software%20Engineering&utm_source=1103)** | El Paso, TX | On Site | Aug 22 |
@@ -292,8 +292,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer](https://jobright-internal.com/jobs/info/66c7ab7f5e7ac17ec5e1d02f?utm_campaign=Software%20Engineering&utm_source=1103)** | USA | On Site | Aug 22 |
 | **[gWorks](https://www.gworks.com)** | **[Cloud Engineer](https://jobright-internal.com/jobs/info/66c7a68ecd3147420dc2c4ef?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Aug 22 |
 | **[Arch Capital Services LLC](http://www.archcapgroup.com)** | **[QA Engineer](https://jobright-internal.com/jobs/info/66c7a68ecd3147420dc2c55c?utm_campaign=Software%20Engineering&utm_source=1103)** | Hartford, CT | Hybrid | Aug 22 |
-| ↳ | **[QA Engineer](https://jobright-internal.com/jobs/info/66c7a68ecd3147420dc2c8a9?utm_campaign=Software%20Engineering&utm_source=1103)** | Triangle Area | Hybrid | Aug 22 |
 | ↳ | **[QA Engineer](https://jobright-internal.com/jobs/info/66c7a68ecd3147420dc2c8a8?utm_campaign=Software%20Engineering&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 22 |
+| ↳ | **[QA Engineer](https://jobright-internal.com/jobs/info/66c7a68ecd3147420dc2c8a9?utm_campaign=Software%20Engineering&utm_source=1103)** | Triangle Area | Hybrid | Aug 22 |
 | **[Global Fishing Watch](http://globalfishingwatch.org/)** | **[Front-end and Data Visualization Engineer](https://jobright-internal.com/jobs/info/66c7961414e8b425b0ba5336?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Aug 22 |
 | **[Astrix Technology Group](http://astrixinc.com)** | **[Quality Assurance Analyst I](https://jobright-internal.com/jobs/info/66c4e9844bea827b3374bedc?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Worth, TX | On Site | Aug 22 |
 | **[Arch Capital Services LLC](http://www.archcapgroup.com)** | **[QA Engineer](https://jobright-internal.com/jobs/info/66c7ab7f5e7ac17ec5e1d3a9?utm_campaign=Software%20Engineering&utm_source=1103)** | Jersey City, NJ | Hybrid | Aug 22 |
@@ -350,13 +350,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Graduate](https://jobright-internal.com/jobs/info/66ab0e083211041b59fe1ce0?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Aug 22 |
 | ↳ | **[Frontend Software Engineer Graduate](https://jobright-internal.com/jobs/info/66ab0e083211041b59fe1ce1?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Aug 22 |
 | ↳ | **[Android Software Engineer Graduate](https://jobright-internal.com/jobs/info/66aa1a6d3f222fa8f7a44bff?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
-| ↳ | **[Software Engineer Graduate (Compliance Platform)](https://jobright-internal.com/jobs/info/66aa8cbb048bfd3c2026199f?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
 | ↳ | **[Engineer Graduate (Backend Software Engineer, Trust and Safety-US)](https://jobright-internal.com/jobs/info/66ae42e44c6836e9d73e1a2c?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
+| ↳ | **[Software Engineer Graduate (Compliance Platform)](https://jobright-internal.com/jobs/info/66aa8cbb048bfd3c2026199f?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
 | ↳ | **[Software Engineer Graduate (E-commerce Recommendation Infrastructure)](https://jobright-internal.com/jobs/info/66ab0e083211041b59fe1ce2?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
 | ↳ | **[Backend Software Engineer Graduate](https://jobright-internal.com/jobs/info/66ab329d6e88effa7c081c58?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Aug 22 |
 | ↳ | **[Software Engineer Graduate](https://jobright-internal.com/jobs/info/66aa1a6d3f222fa8f7a44c10?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
-| ↳ | **[iOS Software Engineer](https://jobright-internal.com/jobs/info/6672a34e05bfcd773488ba39?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
 | ↳ | **[Frontend Software Engineer Graduate](https://jobright-internal.com/jobs/info/66aa1a6d3f222fa8f7a44c06?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
+| ↳ | **[iOS Software Engineer](https://jobright-internal.com/jobs/info/6672a34e05bfcd773488ba39?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
 | ↳ | **[Software Engineer Graduate (Ads Measurement Signal and Privacy Technology)](https://jobright-internal.com/jobs/info/66aa1a6d3f222fa8f7a44c0c?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
 | ↳ | **[Frontend Engineer Graduate](https://jobright-internal.com/jobs/info/66ae5bf9fcefb3c69a02a518?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 22 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Software Engineer II - Mobile Push](https://jobright-internal.com/jobs/info/6672e271eeb3fec7987898e9?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | On Site | Aug 22 |
@@ -375,8 +375,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quality Assurance Analyst](https://jobright-internal.com/jobs/info/66c6de208c4b3b1aabae7ce4?utm_campaign=Software%20Engineering&utm_source=1103)** | Alpharetta, GA | On Site | Aug 21 |
 | ↳ | **[Quality Assurance Analyst](https://jobright-internal.com/jobs/info/66c6de208c4b3b1aabae7ce6?utm_campaign=Software%20Engineering&utm_source=1103)** | Alpharetta, GA | Hybrid | Aug 21 |
 | **[Tesla](https://www.tesla.com)** | **[Drive Systems Integration Engineer](https://jobright-internal.com/jobs/info/66c6e7bd74890dd089e844e9?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Aug 21 |
-| **[GE Vernova](https://www.gevernova.com)** | **[Software Engineer - Electrical Power Systems](https://jobright-internal.com/jobs/info/66c6da012bc8247290ba2d69?utm_campaign=Software%20Engineering&utm_source=1103)** | Bothell, WA | On Site | Aug 21 |
-| ↳ | **[Software Engineer - Electrical Power Systems](https://jobright-internal.com/jobs/info/66c6da012bc8247290ba2d4e?utm_campaign=Software%20Engineering&utm_source=1103)** | Bothell, WA | On Site | Aug 21 |
+| **[GE Vernova](https://www.gevernova.com)** | **[Software Engineer - Electrical Power Systems](https://jobright-internal.com/jobs/info/66c6da012bc8247290ba2d4e?utm_campaign=Software%20Engineering&utm_source=1103)** | Bothell, WA | On Site | Aug 21 |
+| ↳ | **[Software Engineer - Electrical Power Systems](https://jobright-internal.com/jobs/info/66c6da012bc8247290ba2d4f?utm_campaign=Software%20Engineering&utm_source=1103)** | Bothell, WA | On Site | Aug 21 |
 | **[GE Digital](http://www.ge.com/digital/)** | **[Software Engineer - Electrical Power Systems](https://jobright-internal.com/jobs/info/66c6dadbe5541ac03efa2a56?utm_campaign=Software%20Engineering&utm_source=1103)** | Bothell, WA | On Site | Aug 21 |
 | **[StrataCare](https://www.conduent.com/)** | **[Quality Assurance Associate II](https://jobright-internal.com/jobs/info/66c6d674a29ace35fea9c3a6?utm_campaign=Software%20Engineering&utm_source=1103)** | Plano, TX | On Site | Aug 21 |
 | **[GE Digital](http://www.ge.com/digital/)** | **[Software Engineer - Electrical Power Systems](https://jobright-internal.com/jobs/info/66c6cef5561cbfc575b5d5af?utm_campaign=Software%20Engineering&utm_source=1103)** | Bothell, WA | On Site | Aug 21 |
@@ -449,8 +449,8 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer Graduate](https://jobright-internal.com/jobs/info/66a8c55a71ad7ddf94e6b8e5?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Software Engineer Graduate (Database Team)](https://jobright-internal.com/jobs/info/6677b17ad57a2b58a480ba57?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Quality Assurance Engineer Graduate](https://jobright-internal.com/jobs/info/66a91ae0ff46fced207015bb?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Aug 21 |
-| ↳ | **[Quality Assurance Engineer Graduate](https://jobright-internal.com/jobs/info/66a8c55a71ad7ddf94e6b8ef?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | ↳ | **[Frontend Software Engineer Graduate](https://jobright-internal.com/jobs/info/66a8c55a71ad7ddf94e6b8ea?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Aug 21 |
+| ↳ | **[Quality Assurance Engineer Graduate](https://jobright-internal.com/jobs/info/66a8c55a71ad7ddf94e6b8ef?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Development Engineer in Test Graduate](https://jobright-internal.com/jobs/info/668e8e2c8ba8f92011d555bb?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | Hybrid | Aug 21 |
 | **[Paul Hastings](http://www.paulhastings.com/)** | **[Junior Applications Developer](https://jobright-internal.com/jobs/info/668fd39c5bdf80a0306d7e06?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Recommendation Infrastructure)](https://jobright-internal.com/jobs/info/66a9daa7bb305aa812d997d4?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
@@ -473,8 +473,8 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Entry Level Quality Assurance / Software Tester](https://jobright-internal.com/jobs/info/66a95b1323a521e9c7fc4d04?utm_campaign=Software%20Engineering&utm_source=1103)** | Reston, VA | On Site | Aug 21 |
 | **[Twitch](https://www.twitch.tv)** | **[Software Development Engineer - Payments](https://jobright-internal.com/jobs/info/66a9688d062f8960e7cb4240?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Aug 21 |
 | **[Toyota Motor North America](https://www.toyota.com/usa/operations/map/tcal)** | **[Functional Engineer](https://jobright-internal.com/jobs/info/66c5c7980b7d57d04a94d52c?utm_campaign=Software%20Engineering&utm_source=1103)** | Plano, TX | On Site | Aug 21 |
-| **[Delta Dental](https://www.deltadentalins.com)** | **[Quality Assurance Analyst](https://jobright-internal.com/jobs/info/66c593b679ab183bf2adfb14?utm_campaign=Software%20Engineering&utm_source=1103)** | Rancho Cordova, CA | Hybrid | Aug 20 |
-| ↳ | **[Quality Assurance Analyst](https://jobright-internal.com/jobs/info/66c593b679ab183bf2adfb11?utm_campaign=Software%20Engineering&utm_source=1103)** | Oakland, CA | Hybrid | Aug 20 |
+| **[Delta Dental](https://www.deltadentalins.com)** | **[Quality Assurance Analyst](https://jobright-internal.com/jobs/info/66c593b679ab183bf2adfb11?utm_campaign=Software%20Engineering&utm_source=1103)** | Oakland, CA | Hybrid | Aug 20 |
+| ↳ | **[Quality Assurance Analyst](https://jobright-internal.com/jobs/info/66c593b679ab183bf2adfb14?utm_campaign=Software%20Engineering&utm_source=1103)** | Rancho Cordova, CA | Hybrid | Aug 20 |
 | ↳ | **[Quality Assurance Analyst](https://jobright-internal.com/jobs/info/66c593b679ab183bf2adfb17?utm_campaign=Software%20Engineering&utm_source=1103)** | Camp Hill, PA | Hybrid | Aug 20 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Cloud Program Cost Analyst (AWS)](https://jobright-internal.com/jobs/info/66c59fe0426f8eeeb63b2ba1?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Blueprint Technologies](https://bpcs.com/)** | **[Jr. Software Test Engineer](https://jobright-internal.com/jobs/info/66c5867b93a6fcca6e2534a9?utm_campaign=Software%20Engineering&utm_source=1103)** | Bellevue, WA | On Site | Aug 20 |
@@ -509,10 +509,10 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Software Quality Engineer](https://jobright-internal.com/jobs/info/66c4e1fd22c004bf04847de3?utm_campaign=Software%20Engineering&utm_source=1103)** | Everett, WA | Hybrid | Aug 20 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - Fullstack](https://jobright-internal.com/jobs/info/66c615f93f5e488f7ee6023a?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Aug 20 |
 | **[Veterans United Network](https://www.veteransunited.com)** | **[Software Engineer - Remote](https://jobright-internal.com/jobs/info/66c4d02541ae3ff414987caa?utm_campaign=Software%20Engineering&utm_source=1103)** | MO | Remote | Aug 20 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Software Quality Engineer](https://jobright-internal.com/jobs/info/66c6036cda5948710dcfa0b1?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Aug 20 |
 | **[System Soft Technologies](http://www.sstech.us)** | **[Manual QA Tester](https://jobright-internal.com/jobs/info/66c4acfc2becf8838c3821b0?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Software Quality Engineer](https://jobright-internal.com/jobs/info/66c4b4adcec51596b61d33c8?utm_campaign=Software%20Engineering&utm_source=1103)** | Everett, WA | Hybrid | Aug 20 |
 | **[KLDiscovery](https://www.kldiscovery.com/)** | **[Software Development Engineer CIR](https://jobright-internal.com/jobs/info/66c9e07a97ec26e1b7c2c75b?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Aug 20 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Software Quality Engineer](https://jobright-internal.com/jobs/info/66c9cfd52230a774c1e4e60e?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Aug 20 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Software Engineer I (ServiceNow FSO, JavaScript)](https://jobright-internal.com/jobs/info/6647341c7b826fba0f1a8a49?utm_campaign=Software%20Engineering&utm_source=1103)** | St Paul, MN | On Site | Aug 20 |
 | **[GE Digital](http://www.ge.com/digital/)** | **[Software Engineering Specialist](https://jobright-internal.com/jobs/info/66c8790a8e1fbe25938fc7c8?utm_campaign=Software%20Engineering&utm_source=1103)** | Bothell, WA | On Site | Aug 20 |
 | **[UST](https://www.ust.com)** | **[AWS Cloud Engineer](https://jobright-internal.com/jobs/info/66c7241531283890ce6fd52b?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | On Site | Aug 20 |
