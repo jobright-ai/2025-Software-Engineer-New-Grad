@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Software%20Engineering by Jobright.ai
+# Daily Intern Jobs in Software Engineering by Jobright.ai
 
 
 
