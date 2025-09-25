@@ -462,8 +462,4 @@ For a complete list, click the following sortable link below:
 | **[Sift](https://www.siftstack.com)** | **[Software Engineer – New College Graduate](https://jobright.ai/jobs/info/68ccff6077add66568abd756?utm_campaign=Software%20Engineering&utm_source=1103)** | El Segundo, CA | On Site | Sep 18 |
 | **[Red Hat](http://www.redhat.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d3abf2952b4a32e23d8709?utm_campaign=Software%20Engineering&utm_source=1103)** | Raleigh, NC | On Site | Sep 18 |
 | **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Software Tester 4](https://jobright.ai/jobs/info/68cd1bf0e23def7af55b58d8?utm_campaign=Software%20Engineering&utm_source=1103)** | Plano, TX | On Site | Sep 18 |
-| **[AssetMark](http://www.assetmark.com)** | **[Java Server Side Developer](https://jobright.ai/jobs/info/68d4f324e678d65ec7d89cff?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | Hybrid | Sep 18 |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer - Fusion](https://jobright.ai/jobs/info/68cf9f39fb49c96ca6ea9e64?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Sep 18 |
-| ↳ | **[Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://jobright.ai/jobs/info/68cfa048dbd9fb154ede9523?utm_campaign=Software%20Engineering&utm_source=1103)** | Nashville, TN | On Site | Sep 18 |
-| **[Redfin](http://www.redfin.com)** | **[Software Developer](https://jobright.ai/jobs/info/68b2a2a2f4e41a61efd87351?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
