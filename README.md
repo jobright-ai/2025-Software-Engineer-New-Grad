@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IXL Learning](https://www.ixl.com/)** | **[Associate QA Analyst](https://jobright.ai/jobs/info/68cd1271b2a74e1837ed1d0a?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA | On Site | Oct 03 |
 | **[SpaceX](https://www.spacex.com)** | **[Full Stack Software Engineer (Starlink)](https://jobright.ai/jobs/info/68cb18e69e3a822f5d2426f3?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 03 |
 | **[HCVT](http://www.hcvt.com)** | **[Application Developer](https://jobright.ai/jobs/info/68c30ace5001f8077bf607e4?utm_campaign=Software%20Engineering&utm_source=1103)** | Irvine, CA | Hybrid | Oct 03 |
 | **[Zip](https://www.ziphq.com)** | **[Software Engineer, New Grad (2026 Start)](https://jobright.ai/jobs/info/68ce19c4b2a74e1837edf2cc?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fullstack Engineer Graduate, Trust and Safety - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf6337846f0b04af681ad5?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
 | ↳ | **[Engineer Graduate, Implementation - Algorithm Engineering, TikTok - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68c79d0e7d0db4114273e772?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-PGC) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd1d2b1ad6b16f0289542a?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| ↳ | **[SDET, Software Development Engineer in Test Graduate (TikTok Eng Test-Privacy Product) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68d01447846f0b04af6875b2?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[SDET, Software Development Engineer in Test Graduate (TikTok Eng - Testing) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689077124c7e851b90ac6a6b?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Software Engineer Graduate Search - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf8d6ddbd9fb154ede8b69?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Software Engineer Graduate Social - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce2c841ad6b16f028a2851?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
@@ -235,8 +237,4 @@ For a complete list, click the following sortable link below:
 | **[Brain Corp](http://www.braincorp.com)** | **[Software Engineer II, Proof of Concepts](https://jobright.ai/jobs/info/6882c0e3835a903aa07f08ba?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | On Site | Sep 27 |
 | **[SpaceX](https://www.spacex.com)** | **[International Infrastructure Engineer (Starlink)](https://jobright.ai/jobs/info/682cb9d6f0851451c38a40c4?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Sep 27 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, Software Engineering (Chantilly, VA)](https://jobright.ai/jobs/info/68d7cb797796a83635f0bc2e?utm_campaign=Software%20Engineering&utm_source=1103)** | Chantilly, VA | On Site | Sep 27 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Software Engineer III – Backend – Personalization](https://jobright.ai/jobs/info/689f0704faa4e875e82842fe?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA | On Site | Sep 27 |
-| **[Adobe](http://www.adobe.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cbed987342c7623ae5c3fd?utm_campaign=Software%20Engineering&utm_source=1103)** | Lehi, UT | On Site | Sep 27 |
-| **[Decagon](https://decagon.ai)** | **[Agent Software Engineer - New Grad (2026 Start)](https://jobright.ai/jobs/info/68cd0ae0b2a74e1837ed137d?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Sep 27 |
-| **[Stackline](https://www.stackline.com)** | **[Software Development Engineer I](https://jobright.ai/jobs/info/68d79d717796a83635f08d74?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
