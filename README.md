@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SpaceX](https://www.spacex.com)** | **[Full Stack Software Engineer, Security (Starlink)](https://jobright.ai/jobs/info/68a94dd1d627244576e38def?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 04 |
+| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Analyst - Facilities Enterprise Systems (Oracle’s Unifier System)](https://jobright.ai/jobs/info/68c4564a14bb275ce019289d?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Alma](https://helloalma.com)** | **[Backend Engineer I, Claims Reconciliation](https://jobright.ai/jobs/info/68ce7f7afb49c96ca6ea10e5?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 04 |
 | **[Brain Corp](http://www.braincorp.com)** | **[Software Engineer II, Applications](https://jobright.ai/jobs/info/68cd8f44b2a74e1837ed8ddf?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | On Site | Oct 04 |
 | **[Andreessen Horowitz](http://www.a16z.com)** | **[Partner 16, Front-End Engineer, ASG](https://jobright.ai/jobs/info/68c4b6eefce86561b9288b0c?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 04 |
@@ -248,5 +249,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer, Global E-commerce Supply Chain and Logistics](https://jobright.ai/jobs/info/68d998339a8e451a446a5026?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Sep 28 |
 | ↳ | **[Frontend Software Engineer, Global E-commerce Supply Chain and Logistics](https://jobright.ai/jobs/info/68d99812061b716fa295aa82?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Application Analyst I, Cogito Business Intelligence Developer](https://jobright.ai/jobs/info/68ca364ff16e3266d2824de4?utm_campaign=Software%20Engineering&utm_source=1103)** | Oceanport, NJ | On Site | Sep 28 |
-| **[SpaceX](https://www.spacex.com)** | **[Backend Software Engineer (Starlink)](https://jobright.ai/jobs/info/68cdae57e23def7af55bddf6?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
