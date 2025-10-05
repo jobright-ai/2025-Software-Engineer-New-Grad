@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Twitch](https://www.twitch.tv)** | **[Software Engineer I- Ad Demand](https://jobright.ai/jobs/info/68cd13ece23def7af55b4e95?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 05 |
 | **[SpaceX](https://www.spacex.com)** | **[Full Stack Software Engineer, Security (Starlink)](https://jobright.ai/jobs/info/68a94dd1d627244576e38def?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 04 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Analyst - Facilities Enterprise Systems (Oracle’s Unifier System)](https://jobright.ai/jobs/info/68c4564a14bb275ce019289d?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[BRG](http://www.thinkbrg.com)** | **[Workday Solutions Engineer](https://jobright.ai/jobs/info/68535de444410f2c88a359d7?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | On Site | Oct 04 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[LG Electronics North America](https://www.lg.com/us)** | **[Quality Assurance Engineer (New Grad - Bilingual)](https://jobright.ai/jobs/info/68a49c72e9f1c744da122d2e?utm_campaign=Software%20Engineering&utm_source=1103)** | Huntsville, AL | On Site | Oct 02 |
 | **[mthree](https://www.mthree.com/)** | **[C Developer](https://jobright.ai/jobs/info/68cc610b128dc347fd923d27?utm_campaign=Software%20Engineering&utm_source=1103)** | Tampa, FL | On Site | Oct 02 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer, SDN Traffic Intelligence & Control-2025 Start (PhD)](https://jobright.ai/jobs/info/68ce3418b2a74e1837ee05e5?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
+| ↳ | **[Software Development Engineer, SDN Traffic Intelligence & Control](https://jobright.ai/jobs/info/68cc7677128dc347fd9256b9?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ccd9c85954791a1d6ffc44?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | **[Emerson](http://www.emerson.com)** | **[Embedded Firmware Development Engineer](https://jobright.ai/jobs/info/68c1dc3d233c7d3e64d05503?utm_campaign=Software%20Engineering&utm_source=1103)** | Shakopee, MN | Hybrid | Oct 02 |
 | ↳ | **[Manufacturing Software Engineer](https://jobright.ai/jobs/info/68cc0c107342c7623ae5dff3?utm_campaign=Software%20Engineering&utm_source=1103)** | Chanhassen, MN | On Site | Oct 02 |
@@ -173,8 +175,8 @@ For a complete list, click the following sortable link below:
 | **[Morningstar](http://www.morningstar.com/)** | **[Morningstar Development Program for Technologists (Campus)](https://jobright.ai/jobs/info/68cd12781ad6b16f0289467b?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | Hybrid | Sep 30 |
 | **[Brightstar Lottery](www.brightstarlottery.com)** | **[Temporary Power Platform Developer](https://jobright.ai/jobs/info/68daa0df6df7b8311bb10691?utm_campaign=Software%20Engineering&utm_source=1103)** | West Greenwich, RI | Hybrid | Sep 30 |
 | **[Pilot.com](https://pilot.com)** | **[Software Engineer (Takeoff)](https://jobright.ai/jobs/info/68cce74ed11b445e0bee40d6?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Sep 30 |
-| **[BeaconFire Solution Inc.](https://www.beaconfiresolution.com/)** | **[Java Software Engineer](https://jobright.ai/jobs/info/68d43a0817554c2d9eef7267?utm_campaign=Software%20Engineering&utm_source=1103)** | East Windsor, NJ | On Site | Sep 30 |
 | **[Nextdoor](http://nextdoor.com)** | **[Software Engineer - New Grad 2026](https://jobright.ai/jobs/info/68d1ab29a54edb3bf3e14aff?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX | On Site | Sep 30 |
+| **[BeaconFire Solution Inc.](https://www.beaconfiresolution.com/)** | **[Java Software Engineer](https://jobright.ai/jobs/info/68795e492097a271a8976e9e?utm_campaign=Software%20Engineering&utm_source=1103)** | East Windsor, NJ | On Site | Sep 30 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Software Engineer / 2026 Software Engineer - Huntsville AL or Roy UT - R10208659](https://jobright.ai/jobs/info/68d2627b17554c2d9eee75a8?utm_campaign=Software%20Engineering&utm_source=1103)** | Roy, UT | On Site | Sep 30 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Software Development](https://jobright.ai/jobs/info/68cd78ee1ad6b16f02899fb1?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Sep 30 |
 | ↳ | **[New Grad 2026 - Technology, Software Development](https://jobright.ai/jobs/info/68cf2dfbfb49c96ca6ea6381?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Mill, SC | On Site | Sep 30 |
@@ -253,6 +255,4 @@ For a complete list, click the following sortable link below:
 | **[Corgi Insurance (YC S24)](https://www.corgi.insure/)** | **[Full-Stack Software Engineer](https://jobright.ai/jobs/info/68d9d715061b716fa295af16?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX, US | On Site | Sep 28 |
 | ↳ | **[Full-Stack Software Engineer](https://jobright.ai/jobs/info/68d9d7059a8e451a446a548c?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX, US | On Site | Sep 28 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Manager III, Software Dev - AMZ26552.1](https://jobright.ai/jobs/info/6882fa46b54cac0f1e73418c?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
-| **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer, Global E-commerce Supply Chain and Logistics](https://jobright.ai/jobs/info/68d998339a8e451a446a5026?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Sep 28 |
-| ↳ | **[Frontend Software Engineer, Global E-commerce Supply Chain and Logistics](https://jobright.ai/jobs/info/68d99812061b716fa295aa82?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
