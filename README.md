@@ -254,5 +254,4 @@ For a complete list, click the following sortable link below:
 | **[Motive](https://motivehq.com/)** | **[Software Engineer I, Partnerships](https://jobright.ai/jobs/info/68db64819f13662d20e4ae2b?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
 | **[Corgi Insurance (YC S24)](https://www.corgi.insure/)** | **[Full-Stack Software Engineer](https://jobright.ai/jobs/info/68d9d715061b716fa295af16?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX, US | On Site | Sep 28 |
 | ↳ | **[Full-Stack Software Engineer](https://jobright.ai/jobs/info/68d9d7059a8e451a446a548c?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX, US | On Site | Sep 28 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Manager III, Software Dev - AMZ26552.1](https://jobright.ai/jobs/info/6882fa46b54cac0f1e73418c?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
