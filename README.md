@@ -200,10 +200,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cd5f4be23def7af55b9197?utm_campaign=Software%20Engineering&utm_source=1103)** | Lehi, UT | On Site | Sep 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - Azure Core One Fleet Platform Team](https://jobright.ai/jobs/info/68db9b1f34f2c406da6dbc79?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Sep 30 |
 | **[OpusClip](https://www.opus.pro)** | **[Software Engineer, Video Agent](https://jobright.ai/jobs/info/68cf41aa846f0b04af67feff?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Sep 30 |
-| **[VectorShift](https://www.vectorshift.ai)** | **[QA Engineer](https://jobright.ai/jobs/info/68db7c15e19b9e63ba20c836?utm_campaign=Software%20Engineering&utm_source=1103)** | IN / Remote (IN) | Remote | Sep 29 |
-| ↳ | **[QA Engineer](https://jobright.ai/jobs/info/68db7c08e19b9e63ba20c805?utm_campaign=Software%20Engineering&utm_source=1103)** | Remote (IN) | Remote | Sep 29 |
-| ↳ | **[Frontend Engineer (India)](https://jobright.ai/jobs/info/68db7c01e19b9e63ba20c7f3?utm_campaign=Software%20Engineering&utm_source=1103)** | Remote (IN) | Remote | Sep 29 |
-| ↳ | **[Backend Engineer (India)](https://jobright.ai/jobs/info/68db7bcc34f2c406da6d8806?utm_campaign=Software%20Engineering&utm_source=1103)** | Remote (IN) | Remote | Sep 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - Azure Core One Fleet Platform Team](https://jobright.ai/jobs/info/68db72c69f13662d20e4b6e6?utm_campaign=Software%20Engineering&utm_source=1103)** | USA | Remote | Sep 29 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Early Career Firmware Engineer](https://jobright.ai/jobs/info/68db4d009f13662d20e49993?utm_campaign=Software%20Engineering&utm_source=1103)** | Costa Mesa, CA | On Site | Sep 29 |
 | ↳ | **[Early Career Firmware Engineer](https://jobright.ai/jobs/info/68db49e5e19b9e63ba20a539?utm_campaign=Software%20Engineering&utm_source=1103)** | Costa Mesa, California, United States | On Site | Sep 29 |
@@ -257,5 +253,4 @@ For a complete list, click the following sortable link below:
 | **[Mimecast](http://www.mimecast.com)** | **[Software Development Engineer in Test](https://jobright.ai/jobs/info/68dacca10b832179ca4b10f4?utm_campaign=Software%20Engineering&utm_source=1103)** | Columbus, OH | Hybrid | Sep 29 |
 | **[Navan](https://navan.com)** | **[New College Grad Software Engineer - Backend](https://jobright.ai/jobs/info/68daff31e9b48513789b0f70?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Sep 29 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Associate Technologist](https://jobright.ai/jobs/info/68dab7046df7b8311bb11756?utm_campaign=Software%20Engineering&utm_source=1103)** | Arden Hills, MN (USA) | On Site | Sep 29 |
-| **[Mimecast](http://www.mimecast.com)** | **[Software Development Engineer in Test](https://jobright.ai/jobs/info/68da987e0b832179ca4aea58?utm_campaign=Software%20Engineering&utm_source=1103)** | United States of America - Ohio - Columbus | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
