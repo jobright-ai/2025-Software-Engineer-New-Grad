@@ -196,6 +196,4 @@ For a complete list, click the following sortable link below:
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Software Development](https://jobright.ai/jobs/info/68cd136d1ad6b16f02894822?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | On Site | Sep 30 |
 | **[Merrick & Company](http://www.merrick.com)** | **[Civil Infrastructure Engineer](https://jobright.ai/jobs/info/68bf72cc702aa35207aa6619?utm_campaign=Software%20Engineering&utm_source=1103)** | Charlotte, NC | On Site | Sep 30 |
 | **[Pilot.com](https://pilot.com)** | **[Software Engineer (Takeoff)](https://jobright.ai/jobs/info/68cce74ed11b445e0bee40d6?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Sep 30 |
-| **[Nextdoor](http://nextdoor.com)** | **[Software Engineer - New Grad 2026](https://jobright.ai/jobs/info/68d1ab29a54edb3bf3e14aff?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX | On Site | Sep 30 |
-| **[BeaconFire Solution Inc.](https://www.beaconfiresolution.com/)** | **[Java Software Engineer](https://jobright.ai/jobs/info/68795e492097a271a8976e9e?utm_campaign=Software%20Engineering&utm_source=1103)** | East Windsor, NJ | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
