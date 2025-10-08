@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLA](https://www.kla.com)** | **[Software Engineer (E)](https://jobright.ai/jobs/info/68ce7dcedbd9fb154ede01e8?utm_campaign=Software%20Engineering&utm_source=1103)** | Ann Arbor, MI | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, Systems Research, PhD, Early Career](https://jobright.ai/jobs/info/68ce66e9846f0b04af67977c?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 08 |
 | **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68db0363e9b48513789b12d8?utm_campaign=Software%20Engineering&utm_source=1103)** | Arlington, VA | On Site | Oct 07 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cf7fdffb49c96ca6ea9045?utm_campaign=Software%20Engineering&utm_source=1103)** | Radnor, PA | Hybrid | Oct 07 |
+| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Software Engineer - Autonomy](https://jobright.ai/jobs/info/68cc970716d00d2beeb21d40?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 07 |
 | **[Aurora](https://aurora.tech)** | **[Software Engineer II, Visualization](https://jobright.ai/jobs/info/68cd20bf1ad6b16f0289557b?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 07 |
 | **[Nextdoor](http://nextdoor.com)** | **[Software Engineer - New Grad 2026](https://jobright.ai/jobs/info/68d1ab29a54edb3bf3e14aff?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX | On Site | Oct 07 |
 | **[CGI](https://www.cgi.com)** | **[AWS Cloud Engineer](https://jobright.ai/jobs/info/68cb942cba798c1a501d20a2?utm_campaign=Software%20Engineering&utm_source=1103)** | Houston, TX | On Site | Oct 07 |
