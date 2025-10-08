@@ -206,5 +206,4 @@ For a complete list, click the following sortable link below:
 | **[Applied Intuition](https://appliedintuition.com)** | **[Research Engineer - New Grad](https://jobright.ai/jobs/info/68cedd3c846f0b04af67d83f?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 01 |
 | **[Welocalize](http://www.welocalize.com)** | **[Spanish (Spain) Localization QA Tester / Proofreader in Austin, TX](https://jobright.ai/jobs/info/68c05c9e8e65e77df55c064b?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Oct 01 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Developer](https://jobright.ai/jobs/info/68cdc2cee23def7af55bef55?utm_campaign=Software%20Engineering&utm_source=1103)** | Harrisburg, PA | On Site | Oct 01 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Software Developer/Programmer](https://jobright.ai/jobs/info/68cbb1169e3a822f5d24a8bb?utm_campaign=Software%20Engineering&utm_source=1103)** | McLean, VA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
