@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ramp](https://ramp.com)** | **[University Grad / Software Engineer / Frontend](https://jobright.ai/jobs/info/68cd5e1c1ad6b16f02898cc6?utm_campaign=Software%20Engineering&utm_source=1103)** | Queens County, NY | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68ae18b5daf1431824ca0c64?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 08 |
 | **[KLA](https://www.kla.com)** | **[Software Engineer (E)](https://jobright.ai/jobs/info/68ce7dcedbd9fb154ede01e8?utm_campaign=Software%20Engineering&utm_source=1103)** | Ann Arbor, MI | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68d0144cfb49c96ca6eadcc9?utm_campaign=Software%20Engineering&utm_source=1103)** | Kirkland, WA | On Site | Oct 08 |
@@ -126,7 +127,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Graduate Graphics Engine - 2026 Start (PhD)](https://jobright.ai/jobs/info/688f08d56a4aac5783cdc7d3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Software Engineer Graduate Short Video - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68c78e44c96a22563ecf22e5?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate QA Analyst](https://jobright.ai/jobs/info/68cd1271b2a74e1837ed1d0a?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA | On Site | Oct 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate Intelligent Creation - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917ca0f47efe2113955b79?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate PGC - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68c97bc895f5211cd2cf0cef?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
+| ↳ | **[Software Engineer Graduate Intelligent Creation - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917ca0f47efe2113955b79?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[SpaceX](https://www.spacex.com)** | **[Full Stack Software Engineer (Starlink)](https://jobright.ai/jobs/info/68cb18e69e3a822f5d2426f3?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 03 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Information Technology & Digital Early Career Rotational Program (ECRP)](https://jobright.ai/jobs/info/68c3242d5adaee6c9bda7902?utm_campaign=Software%20Engineering&utm_source=1103)** | Milwaukee, WI | On Site | Oct 03 |
 | **[HCVT](http://www.hcvt.com)** | **[Application Developer](https://jobright.ai/jobs/info/68c30ace5001f8077bf607e4?utm_campaign=Software%20Engineering&utm_source=1103)** | Irvine, CA | Hybrid | Oct 03 |
@@ -210,5 +212,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Backend Software Engineer Graduate (Product Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cc07ab16d00d2beeb185e0?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Software Developer Analyst](https://jobright.ai/jobs/info/68cc14fb16d00d2beeb1963e?utm_campaign=Software%20Engineering&utm_source=1103)** | McLean, VA | On Site | Oct 02 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Innovation Embedded Software Developer](https://jobright.ai/jobs/info/68cfe3a7fb49c96ca6eac55b?utm_campaign=Software%20Engineering&utm_source=1103)** | Goodfield, IL | Hybrid | Oct 01 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Software Developer Associate (TS/SCI with Poly)](https://jobright.ai/jobs/info/68d633694736ff202fdd0a04?utm_campaign=Software%20Engineering&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
