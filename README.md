@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Google](https://www.google.com)** | **[Software Engineer, Systems Research, PhD, Early Career](https://jobright.ai/jobs/info/68ce66e9846f0b04af67977c?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 08 |
+| **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68db0363e9b48513789b12d8?utm_campaign=Software%20Engineering&utm_source=1103)** | Arlington, VA | On Site | Oct 07 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cf7fdffb49c96ca6ea9045?utm_campaign=Software%20Engineering&utm_source=1103)** | Radnor, PA | Hybrid | Oct 07 |
 | **[Aurora](https://aurora.tech)** | **[Software Engineer II, Visualization](https://jobright.ai/jobs/info/68cd20bf1ad6b16f0289557b?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 07 |
 | **[Nextdoor](http://nextdoor.com)** | **[Software Engineer - New Grad 2026](https://jobright.ai/jobs/info/68d1ab29a54edb3bf3e14aff?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX | On Site | Oct 07 |
@@ -204,5 +206,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Backend Software Engineer Graduate (Product Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cc07ab16d00d2beeb185e0?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Innovation Embedded Software Developer](https://jobright.ai/jobs/info/68cfe3a7fb49c96ca6eac55b?utm_campaign=Software%20Engineering&utm_source=1103)** | Goodfield, IL | Hybrid | Oct 01 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Software Developer Associate (TS/SCI with Poly)](https://jobright.ai/jobs/info/68d633694736ff202fdd0a04?utm_campaign=Software%20Engineering&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 01 |
-| **[Esri](https://www.esri.com)** | **[Publishing Product Engineer I - ArcGIS Enterprise](https://jobright.ai/jobs/info/68cb6cb3efdec76df36bc6da?utm_campaign=Software%20Engineering&utm_source=1103)** | Redlands, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
