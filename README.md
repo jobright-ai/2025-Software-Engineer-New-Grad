@@ -205,5 +205,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Software Developer Associate (TS/SCI with Poly)](https://jobright.ai/jobs/info/68d633694736ff202fdd0a04?utm_campaign=Software%20Engineering&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 01 |
 | **[Esri](https://www.esri.com)** | **[Publishing Product Engineer I - ArcGIS Enterprise](https://jobright.ai/jobs/info/68cb6cb3efdec76df36bc6da?utm_campaign=Software%20Engineering&utm_source=1103)** | Redlands, CA | On Site | Oct 01 |
 | **[DDN](http://www.ddn.com)** | **[Firmware Engineer](https://jobright.ai/jobs/info/68017bb69e5a92b831fbcde8?utm_campaign=Software%20Engineering&utm_source=1103)** | Colorado Springs, CO | Hybrid | Oct 01 |
-| **[Cargill](https://www.cargill.com/home)** | **[Software Engineer Associate - Technology Development Program 2026, Atlanta, GA](https://jobright.ai/jobs/info/68cd88c91ad6b16f0289af41?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
