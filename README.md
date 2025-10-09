@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stackline](https://www.stackline.com)** | **[Software Development Engineer I – Web Crawling & Automation](https://jobright.ai/jobs/info/68cfad30fb49c96ca6eaab70?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 09 |
+| **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://jobright.ai/jobs/info/68cfa048dbd9fb154ede9523?utm_campaign=Software%20Engineering&utm_source=1103)** | Nashville, TN | On Site | Oct 09 |
 | **[Adobe](http://www.adobe.com)** | **[Software Development Engineer](https://jobright.ai/jobs/info/68ccd202b274cd205ab4fa4f?utm_campaign=Software%20Engineering&utm_source=1103)** | Lehi, UT | On Site | Oct 09 |
 | **[AIG](https://www.aig.com/)** | **[2026 – Early Career – Technology – Analyst – United States, Jersey City (NJ) or Charlotte (NC)](https://jobright.ai/jobs/info/68cf734bfb49c96ca6ea8a8c?utm_campaign=Software%20Engineering&utm_source=1103)** | Charlotte, NC | Hybrid | Oct 08 |
 | **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 08 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[JT4](https://www.jt4llc.com/)** | **[Computer Scientist I - Soft Decom](https://jobright.ai/jobs/info/68d0fe86f1976376178f1a5c?utm_campaign=Software%20Engineering&utm_source=1103)** | Edwards, CA | On Site | Oct 07 |
 | **[Norm Ai](https://www.norm.ai)** | **[Legal Engineer- Agent Deployment](https://jobright.ai/jobs/info/68c8889af9c6ff7aedf0fde5?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 06 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[MTS I, Software Engineer - Microservices](https://jobright.ai/jobs/info/68cccf73fa466330fef91c12?utm_campaign=Software%20Engineering&utm_source=1103)** | Beaverton, OR | On Site | Oct 06 |
-| **[Esri](https://www.esri.com)** | **[Product Engineer I – ArcGIS Pro Sharing](https://jobright.ai/jobs/info/68ccf556d11b445e0bee4e5a?utm_campaign=Software%20Engineering&utm_source=1103)** | Redlands, CA | On Site | Oct 06 |
 | **[Mixpanel](https://mixpanel.com/)** | **[Software Engineer, Distributed Systems](https://jobright.ai/jobs/info/68cd47bcb2a74e1837ed4ba4?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 06 |
 | **[Nexon America](https://www.nexon.co.jp/)** | **[Associate Gameplay Engineer](https://jobright.ai/jobs/info/68cc65d97342c7623ae642cf?utm_campaign=Software%20Engineering&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 06 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Implementation Analyst II](https://jobright.ai/jobs/info/68d610421f7fb2169ab15988?utm_campaign=Software%20Engineering&utm_source=1103)** | Westerville, OH | On Site | Oct 06 |
@@ -187,5 +188,4 @@ For a complete list, click the following sortable link below:
 | **[Magellan Aerospace Limited](http://magellan.aero/)** | **[Quality Assurance Administrator](https://jobright.ai/jobs/info/68c1b43b233c7d3e64d03805?utm_campaign=Software%20Engineering&utm_source=1103)** | West Babylon, NY | On Site | Oct 03 |
 | **[EY](http://www.ey.com)** | **[SDC BCM Technology-- Mobile Developer--Analyst](https://jobright.ai/jobs/info/68cc5418128dc347fd922c45?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX | On Site | Oct 03 |
 | **[ByteDance](http://bytedance.com)** | **[Research Scientist Graduate (Infrastructure System Lab)- 2026 Start (PHD)](https://jobright.ai/jobs/info/68cf6438fb49c96ca6ea8430?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
-| ↳ | **[Software Engineer Graduate (Multi Cloud CDN) - 2025 Start (BS/MS) - San Jose / Seattle / Boston](https://jobright.ai/jobs/info/68cd3781b2a74e1837ed3e36?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
