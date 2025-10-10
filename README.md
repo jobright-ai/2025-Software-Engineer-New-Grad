@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Graduate - Product Engineer](https://jobright.ai/jobs/info/68d625fa894705799a2e7eb2?utm_campaign=Software%20Engineering&utm_source=1103)** | Leominster, MA | On Site | Oct 03 |
 | **[Databricks](https://www.databricks.com)** | **[Software Engineer -  DLT PhD Candidates](https://jobright.ai/jobs/info/68cc725816d00d2beeb1fc33?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 03 |
 | **[SpaceX](https://www.spacex.com)** | **[Software Infrastructure Engineer (Starlink)](https://jobright.ai/jobs/info/68cda5be1ad6b16f0289cc8a?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Oct 03 |
-| **[Rubrik](http://rubrik.com)** | **[Software Engineer - Hawkeye](https://jobright.ai/jobs/info/68cfde98846f0b04af685a4c?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
