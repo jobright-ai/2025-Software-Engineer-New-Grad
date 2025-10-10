@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Software Engineer (C++ or Python) – 2026 Grads](https://jobright.ai/jobs/info/68cd4a5ab2a74e1837ed4f47?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68daffac0dffed6f83d2bc3d?utm_campaign=Software%20Engineering&utm_source=1103)** | Pensacola, FL | On Site | Oct 09 |
 | **[Analog Devices](http://www.analog.com)** | **[Embedded Software](https://jobright.ai/jobs/info/68af48f07bcb7608b3d2c2ff?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | On Site | Oct 09 |
+| **[Amazon](https://amazon.com)** | **[Software Dev Engineer III - AMZ26533.1](https://jobright.ai/jobs/info/68cd66d5b2a74e1837ed69a1?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 09 |
 | **[Stackline](https://www.stackline.com)** | **[Software Development Engineer I – Web Crawling & Automation](https://jobright.ai/jobs/info/68cfad30fb49c96ca6eaab70?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Ads Infrastructure-MLDP) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ceb0cffb49c96ca6ea2ea4?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 09 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI) - Nashville, TN](https://jobright.ai/jobs/info/68cfa048dbd9fb154ede9523?utm_campaign=Software%20Engineering&utm_source=1103)** | Nashville, TN | On Site | Oct 09 |
@@ -153,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Software Infrastructure Engineer (Starlink)](https://jobright.ai/jobs/info/68cda5be1ad6b16f0289cc8a?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Oct 03 |
 | **[Rubrik](http://rubrik.com)** | **[Software Engineer - Hawkeye](https://jobright.ai/jobs/info/68cfde98846f0b04af685a4c?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Graduate Graphics Engine - 2026 Start (PhD)](https://jobright.ai/jobs/info/688f08d56a4aac5783cdc7d3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
-| ↳ | **[Software Engineer Graduate Short Video - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68c78e44c96a22563ecf22e5?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
