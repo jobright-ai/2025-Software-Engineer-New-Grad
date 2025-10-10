@@ -154,6 +154,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer Graduate Short Video - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68c78e44c96a22563ecf22e5?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Associate QA Analyst](https://jobright.ai/jobs/info/68cd1271b2a74e1837ed1d0a?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate PGC - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68c97bc895f5211cd2cf0cef?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
-| ↳ | **[Software Engineer Graduate Intelligent Creation - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917ca0f47efe2113955b79?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
-| **[SpaceX](https://www.spacex.com)** | **[Full Stack Software Engineer (Starlink)](https://jobright.ai/jobs/info/68cb18e69e3a822f5d2426f3?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
