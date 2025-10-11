@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer 1 - 25273](https://jobright.ai/jobs/info/68cd1a5a1ad6b16f02894f23?utm_campaign=Software%20Engineering&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 11 |
+| **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time](https://jobright.ai/jobs/info/68d39eb317554c2d9eef39c9?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 11 |
+| **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer - Entry Level 2026](https://jobright.ai/jobs/info/68cd5bfa1ad6b16f0289887c?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68db0363e9b48513789b12d8?utm_campaign=Software%20Engineering&utm_source=1103)** | Arlington, VA | On Site | Oct 10 |
 | **[ATEC Spine](https://atecspine.com)** | **[Software Test Engineer I, Mobile](https://jobright.ai/jobs/info/68ccae9e128dc347fd9283db?utm_campaign=Software%20Engineering&utm_source=1103)** | Carlsbad, CA | On Site | Oct 10 |
 | **[Aurora](https://aurora.tech)** | **[Embedded Software Engineer I, Vehicle Controls](https://jobright.ai/jobs/info/68ccda9a5954791a1d6ffeab?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 10 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Salesforce Engineer](https://jobright.ai/jobs/info/68cd22041ad6b16f0289578b?utm_campaign=Software%20Engineering&utm_source=1103)** | Eagan, MN | Hybrid | Oct 08 |
 | **[Shipt](https://www.shipt.com)** | **[Associate Engineer - Core Services](https://jobright.ai/jobs/info/68cf0897846f0b04af67edd9?utm_campaign=Software%20Engineering&utm_source=1103)** | Minneapolis, MN | Hybrid | Oct 08 |
 | **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 08 |
+| **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68ce2c9d1ad6b16f028a2876?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 08 |
 | **[Ramp](https://ramp.com)** | **[University Grad / Software Engineer / Frontend](https://jobright.ai/jobs/info/68cd5e1c1ad6b16f02898cc6?utm_campaign=Software%20Engineering&utm_source=1103)** | Queens County, NY | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68ccfd9ad11b445e0bee5974?utm_campaign=Software%20Engineering&utm_source=1103)** | Madison, WI | On Site | Oct 08 |
 | ↳ | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cda73cb2a74e1837eda5ab?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | On Site | Oct 08 |
