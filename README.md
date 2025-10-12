@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required)](https://jobright.ai/jobs/info/68ce2c1ee23def7af55c2c25?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 12 |
 | **[SpaceX](https://www.spacex.com)** | **[Application Software Engineer](https://jobright.ai/jobs/info/68ceb8bdfb49c96ca6ea303a?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 12 |
 | **[Welocalize](http://www.welocalize.com)** | **[Slovenian Localization QA Tester/Proofreader in Cupertino, CA](https://jobright.ai/jobs/info/689848b683d13d1f5b68cf41?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 12 |
+| **[Guidehouse](https://guidehouse.com)** | **[Junior Developer](https://jobright.ai/jobs/info/68ceafd0fb49c96ca6ea2ce9?utm_campaign=Software%20Engineering&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 11 |
 | **[Supermicro](http://www.supermicro.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cec74e846f0b04af67ce75?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer 1 - 25273](https://jobright.ai/jobs/info/68cd1a5a1ad6b16f02894f23?utm_campaign=Software%20Engineering&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 11 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time](https://jobright.ai/jobs/info/68d39eb317554c2d9eef39c9?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 11 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cf7380846f0b04af68234c?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 08 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Associate Salesforce Engineer](https://jobright.ai/jobs/info/68cd22041ad6b16f0289578b?utm_campaign=Software%20Engineering&utm_source=1103)** | Eagan, MN | Hybrid | Oct 08 |
 | **[Shipt](https://www.shipt.com)** | **[Associate Engineer - Core Services](https://jobright.ai/jobs/info/68cf0897846f0b04af67edd9?utm_campaign=Software%20Engineering&utm_source=1103)** | Minneapolis, MN | Hybrid | Oct 08 |
+| ↳ | **[Associate Engineer - Core Services](https://jobright.ai/jobs/info/68ccef7b77add66568abc34b?utm_campaign=Software%20Engineering&utm_source=1103)** | Birmingham, AL | Hybrid | Oct 08 |
 | **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68ce2c9d1ad6b16f028a2876?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 08 |
 | **[Ramp](https://ramp.com)** | **[University Grad / Software Engineer / Frontend](https://jobright.ai/jobs/info/68cd5e1c1ad6b16f02898cc6?utm_campaign=Software%20Engineering&utm_source=1103)** | Queens County, NY | On Site | Oct 08 |
