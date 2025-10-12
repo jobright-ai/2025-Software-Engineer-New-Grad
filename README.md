@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Welocalize](http://www.welocalize.com)** | **[Slovenian Localization QA Tester/Proofreader in Cupertino, CA](https://jobright.ai/jobs/info/689848b683d13d1f5b68cf41?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 12 |
+| **[Supermicro](http://www.supermicro.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cec74e846f0b04af67ce75?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer 1 - 25273](https://jobright.ai/jobs/info/68cd1a5a1ad6b16f02894f23?utm_campaign=Software%20Engineering&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 11 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time](https://jobright.ai/jobs/info/68d39eb317554c2d9eef39c9?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 11 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/68c8d2fef9c6ff7aedf12d5b?utm_campaign=Software%20Engineering&utm_source=1103)** | Greater Sacramento | Hybrid | Oct 11 |
