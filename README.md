@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Voya Financial](https://www.voya.com/)** | **[Microsoft .Net Software Developer](https://jobright.ai/jobs/info/68cf54e5fb49c96ca6ea7a9c?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 05 |
 | **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Enterprise Applications Engineer](https://jobright.ai/jobs/info/68cd5b8bb2a74e1837ed5e3a?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 05 |
 | **[IXL Learning](https://www.ixl.com/)** | **[QA Analyst, UI and Front End](https://jobright.ai/jobs/info/6870d108a5ae807a59cfbe38?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA | On Site | Oct 05 |
-| **[SpaceX](https://www.spacex.com)** | **[Software Engineer, Design Software (Starship)](https://jobright.ai/jobs/info/68cc9c1116d00d2beeb21ff9?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
