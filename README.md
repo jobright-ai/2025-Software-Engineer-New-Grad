@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpaceX](https://www.spacex.com)** | **[Application Software Engineer](https://jobright.ai/jobs/info/68ceb8bdfb49c96ca6ea303a?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 12 |
 | **[Welocalize](http://www.welocalize.com)** | **[Slovenian Localization QA Tester/Proofreader in Cupertino, CA](https://jobright.ai/jobs/info/689848b683d13d1f5b68cf41?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 12 |
 | **[Supermicro](http://www.supermicro.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cec74e846f0b04af67ce75?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer 1 - 25273](https://jobright.ai/jobs/info/68cd1a5a1ad6b16f02894f23?utm_campaign=Software%20Engineering&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 11 |
