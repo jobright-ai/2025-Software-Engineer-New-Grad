@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required)](https://jobright.ai/jobs/info/68ce2c1ee23def7af55c2c25?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 12 |
 | **[SpaceX](https://www.spacex.com)** | **[Application Software Engineer](https://jobright.ai/jobs/info/68ceb8bdfb49c96ca6ea303a?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 12 |
+| **[OpenAI](https://www.openai.com)** | **[Full Stack Engineer, Post Training](https://jobright.ai/jobs/info/68ce253f1ad6b16f028a265e?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 12 |
 | **[Welocalize](http://www.welocalize.com)** | **[Slovenian Localization QA Tester/Proofreader in Cupertino, CA](https://jobright.ai/jobs/info/689848b683d13d1f5b68cf41?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 12 |
 | **[Guidehouse](https://guidehouse.com)** | **[Junior Developer](https://jobright.ai/jobs/info/68ceafd0fb49c96ca6ea2ce9?utm_campaign=Software%20Engineering&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 11 |
 | **[Supermicro](http://www.supermicro.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cec74e846f0b04af67ce75?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
