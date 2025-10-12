@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Welocalize](http://www.welocalize.com)** | **[Slovenian Localization QA Tester/Proofreader in Cupertino, CA](https://jobright.ai/jobs/info/689848b683d13d1f5b68cf41?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 12 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer 1 - 25273](https://jobright.ai/jobs/info/68cd1a5a1ad6b16f02894f23?utm_campaign=Software%20Engineering&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 11 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time](https://jobright.ai/jobs/info/68d39eb317554c2d9eef39c9?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 11 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/68c8d2fef9c6ff7aedf12d5b?utm_campaign=Software%20Engineering&utm_source=1103)** | Greater Sacramento | Hybrid | Oct 11 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer - Entry Level 2026](https://jobright.ai/jobs/info/68cd5bfa1ad6b16f0289887c?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Algorithm Engineer Graduate - Intelligent Multimedia Streaming Strategy - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b255a51ade4306aa635bea?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
 | **[Aurora](https://aurora.tech)** | **[Embedded Software Engineer I, Vehicle Controls](https://jobright.ai/jobs/info/68ccab8d7342c7623ae67f3b?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26532.1](https://jobright.ai/jobs/info/68cf089a846f0b04af67ede0?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 10 |
 | **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68db0363e9b48513789b12d8?utm_campaign=Software%20Engineering&utm_source=1103)** | Arlington, VA | On Site | Oct 10 |
@@ -133,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Backend Development Engineer Graduate (Infrastructure Platform Delivery)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd08c5b2a74e1837ed0d23?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 06 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68ccfdcbd11b445e0bee5a01?utm_campaign=Software%20Engineering&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 06 |
 | **[Voya Financial](https://www.voya.com/)** | **[Microsoft .Net Software Developer](https://jobright.ai/jobs/info/68cf54e5fb49c96ca6ea7a9c?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 05 |
-| **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Enterprise Applications Engineer](https://jobright.ai/jobs/info/68cd5b8bb2a74e1837ed5e3a?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 05 |
-| **[IXL Learning](https://www.ixl.com/)** | **[QA Analyst, UI and Front End](https://jobright.ai/jobs/info/6870d108a5ae807a59cfbe38?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
