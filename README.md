@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Implementation Analyst II](https://jobright.ai/jobs/info/68d610421f7fb2169ab15988?utm_campaign=Software%20Engineering&utm_source=1103)** | Westerville, OH | On Site | Oct 06 |
 | **[Nuro](https://nuro.ai)** | **[Software Engineer, Routing - New Grad](https://jobright.ai/jobs/info/68ce426c24dd5209002f0f24?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 06 |
 | **[ByteDance](http://bytedance.com)** | **[Backend Development Engineer Graduate (Infrastructure Platform Delivery)- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd08c5b2a74e1837ed0d23?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 06 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68ccfdcbd11b445e0bee5a01?utm_campaign=Software%20Engineering&utm_source=1103)** | Annapolis Junction, MD | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
