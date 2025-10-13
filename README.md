@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CGI](https://www.cgi.com)** | **[Web Developer](https://jobright.ai/jobs/info/68c9038d95f5211cd2ced149?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
+| **[CGI](https://www.cgi.com)** | **[Software Developer](https://jobright.ai/jobs/info/68abdaf9daf1431824c90835?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
+| ↳ | **[Web Developer](https://jobright.ai/jobs/info/68c9038d95f5211cd2ced149?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required)](https://jobright.ai/jobs/info/68ce2c1ee23def7af55c2c25?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 12 |
 | **[SpaceX](https://www.spacex.com)** | **[Application Software Engineer](https://jobright.ai/jobs/info/68ceb8bdfb49c96ca6ea303a?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer in Test Graduate (Global E-commerce) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf036adbd9fb154ede45d4?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 12 |
