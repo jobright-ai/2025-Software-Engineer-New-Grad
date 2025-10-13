@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Nintendo](http://nintendo.com)** | **[Language QA Tester - Spanish](https://jobright.ai/jobs/info/68cc2ec816d00d2beeb1b224?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Oct 07 |
 | **[JT4](https://www.jt4llc.com/)** | **[Computer Scientist I - Soft Decom](https://jobright.ai/jobs/info/68d0fe86f1976376178f1a5c?utm_campaign=Software%20Engineering&utm_source=1103)** | Edwards, CA | On Site | Oct 07 |
 | **[Norm Ai](https://www.norm.ai)** | **[Legal Engineer- Agent Deployment](https://jobright.ai/jobs/info/68c8889af9c6ff7aedf0fde5?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 06 |
-| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[MTS I, Software Engineer - Microservices](https://jobright.ai/jobs/info/68cccf73fa466330fef91c12?utm_campaign=Software%20Engineering&utm_source=1103)** | Beaverton, OR | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
