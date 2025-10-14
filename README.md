@@ -136,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - TEST - AMZ25394.1](https://jobright.ai/jobs/info/68c850cc95f5211cd2ce3834?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 07 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Software Engineer - Autonomy](https://jobright.ai/jobs/info/68cc970716d00d2beeb21d40?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 07 |
 | **[Aurora](https://aurora.tech)** | **[Software Engineer II, Visualization](https://jobright.ai/jobs/info/68cd20bf1ad6b16f0289557b?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Ads Infrastructure-Ranking) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ccffda5954791a1d702a26?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
-| **[Fox World Travel](http://foxworldtravel.com)** | **[Web Application Developer](https://jobright.ai/jobs/info/68cd6259b2a74e1837ed6416?utm_campaign=Software%20Engineering&utm_source=1103)** | Oshkosh, WI | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
