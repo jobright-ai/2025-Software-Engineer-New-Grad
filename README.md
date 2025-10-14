@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Dev Engineer II - AMZ26555.1](https://jobright.ai/jobs/info/68cf33b2846f0b04af67fc3c?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 14 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26511.1](https://jobright.ai/jobs/info/68cd135ab2a74e1837ed1e92?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 14 |
 | **[Figma](https://www.figma.com)** | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1f5aaa54edb3bf3e18229?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 | **[Navan](https://navan.com)** | **[Android Engineer](https://jobright.ai/jobs/info/68d1ce398c62e63bc7fcfd61?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 14 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Software Developer TS/SCI w/Polygraph](https://jobright.ai/jobs/info/68cd6f8ab2a74e1837ed6e57?utm_campaign=Software%20Engineering&utm_source=1103)** | McLean, VA | On Site | Oct 08 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Graduate (Multi Cloud CDN) - 2025 Start (BS/MS) - San Jose / Seattle / Boston](https://jobright.ai/jobs/info/68cb738fefdec76df36bcd48?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Ads Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
-| **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cf7fdffb49c96ca6ea9045?utm_campaign=Software%20Engineering&utm_source=1103)** | Radnor, PA | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
