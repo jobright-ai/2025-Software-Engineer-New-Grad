@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/67b4f43319770644570d0697?utm_campaign=Software%20Engineering&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 12 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer](https://jobright.ai/jobs/info/68abdaf9daf1431824c90835?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
 | ↳ | **[Web Developer](https://jobright.ai/jobs/info/68c9038d95f5211cd2ced149?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required)](https://jobright.ai/jobs/info/68ce2c1ee23def7af55c2c25?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 12 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer - Entry Level 2026](https://jobright.ai/jobs/info/68cd5bfa1ad6b16f0289887c?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Algorithm Engineer Graduate - Intelligent Multimedia Streaming Strategy - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b255a51ade4306aa635bea?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
 | **[Aurora](https://aurora.tech)** | **[Embedded Software Engineer I, Vehicle Controls](https://jobright.ai/jobs/info/68ccab8d7342c7623ae67f3b?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 10 |
+| **[Amazon](https://amazon.com)** | **[Quality Assurance Engineer III - AMZ23108.4](https://jobright.ai/jobs/info/68cfae46846f0b04af684564?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[AppLovin](https://www.applovin.com)** | **[Solutions Engineer I](https://jobright.ai/jobs/info/68af8e07962903596357d95b?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26532.1](https://jobright.ai/jobs/info/68cf089a846f0b04af67ede0?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 10 |
 | **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68db0363e9b48513789b12d8?utm_campaign=Software%20Engineering&utm_source=1103)** | Arlington, VA | On Site | Oct 10 |
@@ -140,7 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Cross River](http://crossriver.com)** | **[Associate, Fintech Implementation](https://jobright.ai/jobs/info/68cf1dd4dbd9fb154ede5262?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Lee, NJ | On Site | Oct 07 |
 | **[OpenText](https://www.opentext.com)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cce0bc5954791a1d700552?utm_campaign=Software%20Engineering&utm_source=1103)** | Lexington, KY | On Site | Oct 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7107fb49c96ca6ea072a?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 07 |
-| **[AppLovin](https://www.applovin.com)** | **[Backend Engineer, New Grad](https://jobright.ai/jobs/info/68cce286d11b445e0bee3cbc?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Oct 07 |
-| **[Nintendo](http://nintendo.com)** | **[Language QA Tester - Spanish](https://jobright.ai/jobs/info/68cc2ec816d00d2beeb1b224?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Oct 07 |
-| **[JT4](https://www.jt4llc.com/)** | **[Computer Scientist I - Soft Decom](https://jobright.ai/jobs/info/68d0fe86f1976376178f1a5c?utm_campaign=Software%20Engineering&utm_source=1103)** | Edwards, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
