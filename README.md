@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[R&D Engineer II - Embedded Firmware](https://jobright.ai/jobs/info/68ce6bdafb49c96ca6ea0393?utm_campaign=Software%20Engineering&utm_source=1103)** | Alameda, CA | On Site | Oct 12 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/67b4f43319770644570d0697?utm_campaign=Software%20Engineering&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 12 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer](https://jobright.ai/jobs/info/68abdaf9daf1431824c90835?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
 | ↳ | **[Web Developer](https://jobright.ai/jobs/info/68c9038d95f5211cd2ced149?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Ads Infrastructure-Ranking) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ccffda5954791a1d702a26?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Fox World Travel](http://foxworldtravel.com)** | **[Web Application Developer](https://jobright.ai/jobs/info/68cd6259b2a74e1837ed6416?utm_campaign=Software%20Engineering&utm_source=1103)** | Oshkosh, WI | On Site | Oct 07 |
 | **[CGI](https://www.cgi.com)** | **[AWS Cloud Engineer](https://jobright.ai/jobs/info/68cb942cba798c1a501d20a2?utm_campaign=Software%20Engineering&utm_source=1103)** | Houston, TX | On Site | Oct 07 |
-| **[Harvey](https://harvey.ai)** | **[Software Engineer, New Grad (2026)](https://jobright.ai/jobs/info/68cb8d13efdec76df36bea72?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
