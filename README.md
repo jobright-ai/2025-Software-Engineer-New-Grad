@@ -139,7 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Fox World Travel](http://foxworldtravel.com)** | **[Web Application Developer](https://jobright.ai/jobs/info/68cd6259b2a74e1837ed6416?utm_campaign=Software%20Engineering&utm_source=1103)** | Oshkosh, WI | On Site | Oct 07 |
 | **[CGI](https://www.cgi.com)** | **[AWS Cloud Engineer](https://jobright.ai/jobs/info/68cb942cba798c1a501d20a2?utm_campaign=Software%20Engineering&utm_source=1103)** | Houston, TX | On Site | Oct 07 |
 | **[Harvey](https://harvey.ai)** | **[Software Engineer, New Grad (2026)](https://jobright.ai/jobs/info/68cb8d13efdec76df36bea72?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 07 |
-| **[Cross River](http://crossriver.com)** | **[Associate, Fintech Implementation](https://jobright.ai/jobs/info/68cf1dd4dbd9fb154ede5262?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Lee, NJ | On Site | Oct 07 |
-| **[OpenText](https://www.opentext.com)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cce0bc5954791a1d700552?utm_campaign=Software%20Engineering&utm_source=1103)** | Lexington, KY | On Site | Oct 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce7107fb49c96ca6ea072a?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
