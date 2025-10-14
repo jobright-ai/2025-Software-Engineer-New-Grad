@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Dev Engineer II - AMZ26555.1](https://jobright.ai/jobs/info/68cf33b2846f0b04af67fc3c?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 14 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26511.1](https://jobright.ai/jobs/info/68cd135ab2a74e1837ed1e92?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 14 |
+| **[Figma](https://www.figma.com)** | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1ed62a54edb3bf3e1796e?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 14 |
+| **[SumUp](https://sumup.co.uk)** | **[Full-Stack Software Engineer - Wealth and Expansion](https://jobright.ai/jobs/info/68d1ee5217554c2d9eee11e5?utm_campaign=Software%20Engineering&utm_source=1103)** | Boulder, CO | On Site | Oct 14 |
 | **[Figma](https://www.figma.com)** | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1f5aaa54edb3bf3e18229?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 | **[Navan](https://navan.com)** | **[Android Engineer](https://jobright.ai/jobs/info/68d1ce398c62e63bc7fcfd61?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 14 |
 | **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68daffac0dffed6f83d2bc3d?utm_campaign=Software%20Engineering&utm_source=1103)** | Pensacola, FL | On Site | Oct 13 |
@@ -135,5 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cd4ba51ad6b16f02897a9b?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Software Developer TS/SCI w/Polygraph](https://jobright.ai/jobs/info/68cd6f8ab2a74e1837ed6e57?utm_campaign=Software%20Engineering&utm_source=1103)** | McLean, VA | On Site | Oct 08 |
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Graduate (Multi Cloud CDN) - 2025 Start (BS/MS) - San Jose / Seattle / Boston](https://jobright.ai/jobs/info/68cb738fefdec76df36bcd48?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Ads Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
