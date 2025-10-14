@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26511.1](https://jobright.ai/jobs/info/68cd135ab2a74e1837ed1e92?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 14 |
+| **[Figma](https://www.figma.com)** | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1f5aaa54edb3bf3e18229?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
+| **[Navan](https://navan.com)** | **[Android Engineer](https://jobright.ai/jobs/info/68d1ce398c62e63bc7fcfd61?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | Hybrid | Oct 14 |
+| **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68daffac0dffed6f83d2bc3d?utm_campaign=Software%20Engineering&utm_source=1103)** | Pensacola, FL | On Site | Oct 13 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[R&D Engineer II - Embedded Firmware](https://jobright.ai/jobs/info/68ce6bdafb49c96ca6ea0393?utm_campaign=Software%20Engineering&utm_source=1103)** | Alameda, CA | On Site | Oct 12 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/67b4f43319770644570d0697?utm_campaign=Software%20Engineering&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 12 |
 | **[CGI](https://www.cgi.com)** | **[Software Developer](https://jobright.ai/jobs/info/68abdaf9daf1431824c90835?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[AssetMark](http://www.assetmark.com)** | **[Java Server Side Developer](https://jobright.ai/jobs/info/68d4f324e678d65ec7d89cff?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | Hybrid | Oct 10 |
 | **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Software Engineer - Fusion](https://jobright.ai/jobs/info/68af12731f0a2a568a05ee0f?utm_campaign=Software%20Engineering&utm_source=1103)** | Redwood City, CA | On Site | Oct 10 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Solutions Architect II - AMZ26538.1](https://jobright.ai/jobs/info/68af98a62daaba398441f5a3?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 09 |
-| **[ICF](https://www.icf.com)** | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68daffac0dffed6f83d2bc3d?utm_campaign=Software%20Engineering&utm_source=1103)** | Pensacola, FL | On Site | Oct 09 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[System Software Quality Auditor/Assessor](https://jobright.ai/jobs/info/68ccf4df77add66568abc858?utm_campaign=Software%20Engineering&utm_source=1103)** | Auburn Hills, MI | On Site | Oct 09 |
 | **[Analog Devices](http://www.analog.com)** | **[Embedded Software](https://jobright.ai/jobs/info/68af48f07bcb7608b3d2c2ff?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | On Site | Oct 09 |
 | **[Daybreak Game Company LLC](https://www.daybreakgames.com/home)** | **[QA Analyst (Temp)](https://jobright.ai/jobs/info/68a3b3371ab5f8579e8a79e1?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Oct 09 |
@@ -133,6 +136,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Software Engineer Graduate (Multi Cloud CDN) - 2025 Start (BS/MS) - San Jose / Seattle / Boston](https://jobright.ai/jobs/info/68cb738fefdec76df36bcd48?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Ads Infrastructure) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd43591ad6b16f028973c3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 07 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cf7fdffb49c96ca6ea9045?utm_campaign=Software%20Engineering&utm_source=1103)** | Radnor, PA | Hybrid | Oct 07 |
-| **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - TEST - AMZ25394.1](https://jobright.ai/jobs/info/68c850cc95f5211cd2ce3834?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 07 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Software Engineer - Autonomy](https://jobright.ai/jobs/info/68cc970716d00d2beeb21d40?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
