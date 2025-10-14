@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cf7fdffb49c96ca6ea9045?utm_campaign=Software%20Engineering&utm_source=1103)** | Radnor, PA | Hybrid | Oct 07 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - TEST - AMZ25394.1](https://jobright.ai/jobs/info/68c850cc95f5211cd2ce3834?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 07 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Software Engineer - Autonomy](https://jobright.ai/jobs/info/68cc970716d00d2beeb21d40?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 07 |
-| **[Aurora](https://aurora.tech)** | **[Software Engineer II, Visualization](https://jobright.ai/jobs/info/68cd20bf1ad6b16f0289557b?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
