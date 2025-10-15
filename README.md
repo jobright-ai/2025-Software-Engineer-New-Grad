@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Infrastructure & Operations](https://jobright.ai/jobs/info/68d1ea1b8c62e63bc7fd0f82?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
+| **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1e66ca54edb3bf3e1750f?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 14 |
+| ↳ | **[New Grad 2026 - Technology, Infrastructure & Operations](https://jobright.ai/jobs/info/68d1ea1b8c62e63bc7fd0f82?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Dev Engineer II - AMZ26555.1](https://jobright.ai/jobs/info/68cf33b2846f0b04af67fc3c?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 14 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[iOS Engineer 1 - Customer Mobile Applications Team - HYBRID (Seattle, WA)](https://jobright.ai/jobs/info/68d23a49a54edb3bf3e1c250?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | Hybrid | Oct 14 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26511.1](https://jobright.ai/jobs/info/68cd135ab2a74e1837ed1e92?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 14 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer in Test Graduate (Global E-commerce) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf036adbd9fb154ede45d4?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 12 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Software Engineer, C++ (2026)](https://jobright.ai/jobs/info/68c7a090c96a22563ecf38ea?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | On Site | Oct 12 |
 | **[Honeywell](http://www.honeywell.com)** | **[Embedded Engineer - Recent Grad/Full Time](https://jobright.ai/jobs/info/68d20af98c62e63bc7fd27ae?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 12 |
-| **[OpenAI](https://www.openai.com)** | **[Full Stack Engineer, Post Training](https://jobright.ai/jobs/info/68ce253f1ad6b16f028a265e?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 12 |
 | **[Santa Monica Studio](http://sms.playstation.com/)** | **[QA Analyst (Contract)](https://jobright.ai/jobs/info/689d361d79a9f9666253e532?utm_campaign=Software%20Engineering&utm_source=1103)** | LA Metro Area | On Site | Oct 12 |
 | **[Runpod](https://www.runpod.io)** | **[Software Engineer (Full-Stack)](https://jobright.ai/jobs/info/68cd54231ad6b16f0289809e?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 12 |
 | **[Welocalize](http://www.welocalize.com)** | **[Slovenian Localization QA Tester/Proofreader in Cupertino, CA](https://jobright.ai/jobs/info/689848b683d13d1f5b68cf41?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 12 |
@@ -124,9 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Engineer - Core Services](https://jobright.ai/jobs/info/68ccef7b77add66568abc34b?utm_campaign=Software%20Engineering&utm_source=1103)** | Birmingham, AL | Hybrid | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68cf5781846f0b04af6815b2?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 08 |
-| **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68ce2c9d1ad6b16f028a2876?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 08 |
-| **[Ramp](https://ramp.com)** | **[University Grad / Software Engineer / Frontend](https://jobright.ai/jobs/info/68cd5e1c1ad6b16f02898cc6?utm_campaign=Software%20Engineering&utm_source=1103)** | Queens County, NY | On Site | Oct 08 |
-| **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68ccfd9ad11b445e0bee5974?utm_campaign=Software%20Engineering&utm_source=1103)** | Madison, WI | On Site | Oct 08 |
-| ↳ | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cda73cb2a74e1837eda5ab?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | On Site | Oct 08 |
-| ↳ | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68ae1644758f2e4ac30113b8?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
