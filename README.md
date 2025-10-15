@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ce220ce23def7af55c28e4?utm_campaign=Software%20Engineering&utm_source=1103)** | Detroit, MI | Hybrid | Oct 15 |
+| **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ccb5aa7342c7623ae686fc?utm_campaign=Software%20Engineering&utm_source=1103)** | Nashville, TN | Hybrid | Oct 15 |
+| ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68c7c6ba369c3763c743c246?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX | Hybrid | Oct 15 |
+| ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ce220ce23def7af55c28e4?utm_campaign=Software%20Engineering&utm_source=1103)** | Detroit, MI | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689ae7215574fd6bc0c877f7?utm_campaign=Software%20Engineering&utm_source=1103)** | Richmond, VA | Hybrid | Oct 15 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Software Development Engineer I – Early Career & New Graduate Rotation (2025-2026 Starts)](https://jobright.ai/jobs/info/68cd5d6d1ad6b16f02898b6e?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ccf1585954791a1d7018b5?utm_campaign=Software%20Engineering&utm_source=1103)** | Cleveland, OH | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a390f83d13d1f5b696f9e?utm_campaign=Software%20Engineering&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 15 |
+| **[LinkedIn](https://www.linkedin.com)** | **[Software Engineer, Systems and Infrastructure](https://jobright.ai/jobs/info/68d301b717554c2d9eeecd44?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | Hybrid | Oct 15 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Temporary Power Platform Developer](https://jobright.ai/jobs/info/68daa0df6df7b8311bb10691?utm_campaign=Software%20Engineering&utm_source=1103)** | West Greenwich, RI | Hybrid | Oct 15 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1e66ca54edb3bf3e1750f?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 14 |
 | ↳ | **[New Grad 2026 - Technology, Infrastructure & Operations](https://jobright.ai/jobs/info/68d1ea1b8c62e63bc7fd0f82?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
@@ -124,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Dev Engineer II - AMZ26548.1](https://jobright.ai/jobs/info/68cf80bbdbd9fb154ede85b9?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68ce6754fb49c96ca6ea0170?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
 | **[Travelers](https://www.travelers.com)** | **[Software Engineer I (Salesforce)](https://jobright.ai/jobs/info/68cce27177add66568abb6b7?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | On Site | Oct 08 |
-| **[AIG](https://www.aig.com/)** | **[2026 – Early Career – Technology – Analyst – United States, Jersey City (NJ) or Charlotte (NC)](https://jobright.ai/jobs/info/68cf734bfb49c96ca6ea8a8c?utm_campaign=Software%20Engineering&utm_source=1103)** | Charlotte, NC | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
