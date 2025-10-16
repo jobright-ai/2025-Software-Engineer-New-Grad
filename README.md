@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DXC Technology](https://www.dxc.com)** | **[Associate Mainframe Programmer Analyst-1](https://jobright.ai/jobs/info/68d4eaf024b1ee4c7b661d2d?utm_campaign=Software%20Engineering&utm_source=1103)** | Connecticut, United States | Hybrid | Oct 16 |
+| **[Aquia](https://www.aquia.us)** | **[Cloud Engineer](https://jobright.ai/jobs/info/68d4bafbffc1276de3fdda38?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 16 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68ce61e3846f0b04af6794c4?utm_campaign=Software%20Engineering&utm_source=1103)** | New Stanton, PA | On Site | Oct 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Live Service) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68d4f53024b1ee4c7b6628b3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 16 |
 | **[HockeyStack](https://hockeystack.com)** | **[Engineering Fellowship](https://jobright.ai/jobs/info/68c0bacd702aa35207ab005d?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 15 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Software Developer](https://jobright.ai/jobs/info/68abdaf9daf1431824c90835?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
 | ↳ | **[Web Developer](https://jobright.ai/jobs/info/68c9038d95f5211cd2ced149?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required)](https://jobright.ai/jobs/info/68ce2c1ee23def7af55c2c25?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 12 |
-| **[SpaceX](https://www.spacex.com)** | **[Application Software Engineer](https://jobright.ai/jobs/info/68ceb8bdfb49c96ca6ea303a?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[Software Development Engineer in Test Graduate (Global E-commerce) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf036adbd9fb154ede45d4?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 12 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Software Engineer, C++ (2026)](https://jobright.ai/jobs/info/68c7a090c96a22563ecf38ea?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | On Site | Oct 12 |
 | **[Honeywell](http://www.honeywell.com)** | **[Embedded Engineer - Recent Grad/Full Time](https://jobright.ai/jobs/info/68d20af98c62e63bc7fd27ae?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 12 |
@@ -140,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Software Engineer - Fusion](https://jobright.ai/jobs/info/68cc6c99128dc347fd924b57?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 10 |
 | **[Samsara](http://www.samsara.com)** | **[(New Grad) Software Engineering](https://jobright.ai/jobs/info/68ccee1cd11b445e0bee4649?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
 | **[AssetMark](http://www.assetmark.com)** | **[Java Server Side Developer](https://jobright.ai/jobs/info/68d4f324e678d65ec7d89cff?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | Hybrid | Oct 10 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Solutions Architect II - AMZ26538.1](https://jobright.ai/jobs/info/68af98a62daaba398441f5a3?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
