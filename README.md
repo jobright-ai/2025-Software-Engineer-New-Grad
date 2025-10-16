@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26488.1](https://jobright.ai/jobs/info/68ccd341b274cd205ab4fe96?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | **[DXC Technology](https://www.dxc.com)** | **[Associate Mainframe Programmer Analyst-1](https://jobright.ai/jobs/info/68d4eaf024b1ee4c7b661d2d?utm_campaign=Software%20Engineering&utm_source=1103)** | Connecticut, United States | Hybrid | Oct 16 |
 | **[Aquia](https://www.aquia.us)** | **[Cloud Engineer](https://jobright.ai/jobs/info/68d4bafbffc1276de3fdda38?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 16 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68ce61e3846f0b04af6794c4?utm_campaign=Software%20Engineering&utm_source=1103)** | New Stanton, PA | On Site | Oct 16 |
-| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Live Service) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68d4f53024b1ee4c7b6628b3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Software Engineer Graduate (Data Arch - E-commerce) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68d4f38fe678d65ec7d89db6?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
+| ↳ | **[Software Engineer Graduate (Ads Identity and Attribution Technology) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68d4a1fdffc1276de3fdcafa?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 16 |
+| ↳ | **[Software Engineer Graduate (Live Service) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68d4f53024b1ee4c7b6628b3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 16 |
+| ↳ | **[Software Engineer Graduate (Monetization Technology - TikTok Ads Creator Monetization) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68d4a7718c62e63bc7feb4ba?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 16 |
 | **[HockeyStack](https://hockeystack.com)** | **[Engineering Fellowship](https://jobright.ai/jobs/info/68c0bacd702aa35207ab005d?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 15 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cf7fdffb49c96ca6ea9045?utm_campaign=Software%20Engineering&utm_source=1103)** | Radnor, PA | Hybrid | Oct 15 |
 | **[Esri](https://www.esri.com)** | **[C++ Software Engineer II - Graph Algorithms](https://jobright.ai/jobs/info/68ca2eb5f16e3266d2823cdb?utm_campaign=Software%20Engineering&utm_source=1103)** | Redlands, CA | On Site | Oct 15 |
