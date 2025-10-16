@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DXC Technology](https://www.dxc.com)** | **[Associate Mainframe Programmer Analyst-1](https://jobright.ai/jobs/info/68d4eaf024b1ee4c7b661d2d?utm_campaign=Software%20Engineering&utm_source=1103)** | Connecticut, United States | Hybrid | Oct 16 |
+| **[HockeyStack](https://hockeystack.com)** | **[Engineering Fellowship](https://jobright.ai/jobs/info/68c0bacd702aa35207ab005d?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 15 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Associate Software Engineer](https://jobright.ai/jobs/info/68cf7fdffb49c96ca6ea9045?utm_campaign=Software%20Engineering&utm_source=1103)** | Radnor, PA | Hybrid | Oct 15 |
 | **[Esri](https://www.esri.com)** | **[C++ Software Engineer II - Graph Algorithms](https://jobright.ai/jobs/info/68ca2eb5f16e3266d2823cdb?utm_campaign=Software%20Engineering&utm_source=1103)** | Redlands, CA | On Site | Oct 15 |
 | **[Stripe](https://stripe.com)** | **[Software Engineer, New Grad](https://jobright.ai/jobs/info/68cd3894b2a74e1837ed3f91?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
@@ -67,12 +69,15 @@ For a complete list, click the following sortable link below:
 | **[Tenstorrent](http://tenstorrent.com)** | **[DevRel Engineer](https://jobright.ai/jobs/info/68cce9815954791a1d701128?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Collins Area | On Site | Oct 15 |
 | ↳ | **[SOC Architect - Automotive](https://jobright.ai/jobs/info/68cf5cc5dbd9fb154ede753d?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[Software Engineer II, Accounts](https://jobright.ai/jobs/info/68d320bb8c62e63bc7fdddfa?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 15 |
+| **[Neuralink](https://www.neuralink.com)** | **[Quality Assurance Specialist](https://jobright.ai/jobs/info/68cb1e34ba798c1a501cbf16?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
+| **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68c9067895f5211cd2ced6db?utm_campaign=Software%20Engineering&utm_source=1103)** | Houston, TX | Hybrid | Oct 15 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer, Hippocampus Team](https://jobright.ai/jobs/info/67c0d4765091b259c0a9d936?utm_campaign=Software%20Engineering&utm_source=1103)** | Fremont, CA | On Site | Oct 15 |
 | ↳ | **[Embedded Software Engineer](https://jobright.ai/jobs/info/68ce374e1ad6b16f028a30f0?utm_campaign=Software%20Engineering&utm_source=1103)** | Fremont, CA | On Site | Oct 15 |
 | **[KLA](https://www.kla.com)** | **[Diagnostics Software Engineer](https://jobright.ai/jobs/info/68cf576a846f0b04af681546?utm_campaign=Software%20Engineering&utm_source=1103)** | Milpitas, CA | On Site | Oct 15 |
 | **[Neuralink](https://www.neuralink.com)** | **[Software Engineer, BCI Applications](https://jobright.ai/jobs/info/68cba33b9e3a822f5d249936?utm_campaign=Software%20Engineering&utm_source=1103)** | Fremont, CA | On Site | Oct 15 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ccb5aa7342c7623ae686fc?utm_campaign=Software%20Engineering&utm_source=1103)** | Nashville, TN | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689c5430faa4e875e8268393?utm_campaign=Software%20Engineering&utm_source=1103)** | Madison, WI | Hybrid | Oct 15 |
+| ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689ae61bfaa4e875e825db14?utm_campaign=Software%20Engineering&utm_source=1103)** | Boulder, CO | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68c7c6ba369c3763c743c246?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ce220ce23def7af55c28e4?utm_campaign=Software%20Engineering&utm_source=1103)** | Detroit, MI | Hybrid | Oct 15 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. MarTech Solutions Architect](https://jobright.ai/jobs/info/67eec162357dc4681d86426f?utm_campaign=Software%20Engineering&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
@@ -85,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ccf1585954791a1d7018b5?utm_campaign=Software%20Engineering&utm_source=1103)** | Cleveland, OH | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a390f83d13d1f5b696f9e?utm_campaign=Software%20Engineering&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 15 |
 | **[Atlassian](https://www.atlassian.com)** | **[Software Engineer, 2026 Graduate U.S.](https://jobright.ai/jobs/info/68d8b554eed6e340d9e1d042?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
+| **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a3e6f5574fd6bc0c80d41?utm_campaign=Software%20Engineering&utm_source=1103)** | Philadelphia, PA | Hybrid | Oct 15 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d2fe23f0d9af73038ddfdb?utm_campaign=Software%20Engineering&utm_source=1103)** | Newark, NJ | On Site | Oct 15 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Software Engineer, Systems and Infrastructure](https://jobright.ai/jobs/info/68d301b717554c2d9eeecd44?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | Hybrid | Oct 15 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a34effaa4e875e8256ab7?utm_campaign=Software%20Engineering&utm_source=1103)** | Boise, ID | Hybrid | Oct 15 |
