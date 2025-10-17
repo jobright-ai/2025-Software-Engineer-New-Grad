@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TeleTracking](http://teletracking.com/)** | **[Software Engineer I](https://jobright.ai/jobs/info/68d444068c62e63bc7fe735e?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 16 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Amazon Dedicated Cloud Engineer, Kumo Enigma](https://jobright.ai/jobs/info/68d4d731ffc1276de3fde975?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26488.1](https://jobright.ai/jobs/info/68ccd341b274cd205ab4fe96?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | **[DXC Technology](https://www.dxc.com)** | **[Associate Mainframe Programmer Analyst-1](https://jobright.ai/jobs/info/68d4eaf024b1ee4c7b661d2d?utm_campaign=Software%20Engineering&utm_source=1103)** | Connecticut, United States | Hybrid | Oct 16 |
 | **[Aquia](https://www.aquia.us)** | **[Cloud Engineer](https://jobright.ai/jobs/info/68d4bafbffc1276de3fdda38?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 16 |
