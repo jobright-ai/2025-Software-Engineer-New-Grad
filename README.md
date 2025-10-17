@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ignite Digital Services](https://ignite-digital.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d594fa63d77d6f6f3f0992?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 17 |
 | **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 16 |
 | **[TeleTracking](http://teletracking.com/)** | **[Software Engineer I](https://jobright.ai/jobs/info/68d444068c62e63bc7fe735e?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 16 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Amazon Dedicated Cloud Engineer, Kumo Enigma](https://jobright.ai/jobs/info/68d4d731ffc1276de3fde975?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Sr Software Developer - Fraud Technology (Non-Financial Risk Technology)](https://jobright.ai/jobs/info/68d43e64ffc1276de3fd8909?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26488.1](https://jobright.ai/jobs/info/68ccd341b274cd205ab4fe96?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | ↳ | **[Software Dev Engineer II - AMZ26505.1](https://jobright.ai/jobs/info/68ccda92d11b445e0bee30ff?utm_campaign=Software%20Engineering&utm_source=1103)** | East Palo Alto, CA | On Site | Oct 16 |
@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Software Engineer: Quantitative Components](https://jobright.ai/jobs/info/68ca505d06a34016008c67c7?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | On Site | Oct 15 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[DevRel Engineer](https://jobright.ai/jobs/info/68cce9815954791a1d701128?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Collins Area | On Site | Oct 15 |
 | ↳ | **[SOC Architect - Automotive](https://jobright.ai/jobs/info/68cf5cc5dbd9fb154ede753d?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 15 |
+| **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689ae292faa4e875e825d5e5?utm_campaign=Software%20Engineering&utm_source=1103)** | Sioux Falls, SD | Hybrid | Oct 15 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[Software Engineer II, Accounts](https://jobright.ai/jobs/info/68d320bb8c62e63bc7fdddfa?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 15 |
 | **[Neuralink](https://www.neuralink.com)** | **[Quality Assurance Specialist](https://jobright.ai/jobs/info/68cb1e34ba798c1a501cbf16?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68c9067895f5211cd2ced6db?utm_campaign=Software%20Engineering&utm_source=1103)** | Houston, TX | Hybrid | Oct 15 |
@@ -143,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/68c8d2fef9c6ff7aedf12d5b?utm_campaign=Software%20Engineering&utm_source=1103)** | Greater Sacramento | Hybrid | Oct 11 |
 | **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer - Entry Level 2026](https://jobright.ai/jobs/info/68cd5bfa1ad6b16f0289887c?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Algorithm Engineer Graduate - Intelligent Multimedia Streaming Strategy - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b255a51ade4306aa635bea?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
-| **[Aurora](https://aurora.tech)** | **[Embedded Software Engineer I, Vehicle Controls](https://jobright.ai/jobs/info/68ccab8d7342c7623ae67f3b?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
