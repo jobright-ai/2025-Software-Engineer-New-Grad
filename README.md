@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpaceX](https://www.spacex.com)** | **[International Infrastructure Engineer (Starlink)](https://jobright.ai/jobs/info/682cb9d6f0851451c38a40c4?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | On Site | Oct 18 |
 | **[Octus](https://octus.com)** | **[Frontend Engineer](https://jobright.ai/jobs/info/68d6c4add3fe025a3015be5e?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Oct 18 |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d594fa63d77d6f6f3f0992?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 17 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Avionics Software Engineer 1 – Early Career 2025 University Grad](https://jobright.ai/jobs/info/689bb20579a9f96662532cbc?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 17 |
