@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d594fa63d77d6f6f3f0992?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 17 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Avionics Software Engineer 1 – Early Career 2025 University Grad](https://jobright.ai/jobs/info/689bb20579a9f96662532cbc?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 17 |
 | **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 16 |
 | **[TeleTracking](http://teletracking.com/)** | **[Software Engineer I](https://jobright.ai/jobs/info/68d444068c62e63bc7fe735e?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 16 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Sr Software Developer - Fraud Technology (Non-Financial Risk Technology)](https://jobright.ai/jobs/info/68d43e64ffc1276de3fd8909?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 16 |
@@ -140,6 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Software Engineer 1 - 25273](https://jobright.ai/jobs/info/68cd1a5a1ad6b16f02894f23?utm_campaign=Software%20Engineering&utm_source=1103)** | Virginia Beach, VA | On Site | Oct 11 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time](https://jobright.ai/jobs/info/68d39eb317554c2d9eef39c9?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Oct 11 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/68c8d2fef9c6ff7aedf12d5b?utm_campaign=Software%20Engineering&utm_source=1103)** | Greater Sacramento | Hybrid | Oct 11 |
-| **[Belvedere Trading, LLC](http://belvederetrading.com)** | **[Software Engineer - Entry Level 2026](https://jobright.ai/jobs/info/68cd5bfa1ad6b16f0289887c?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Oct 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Algorithm Engineer Graduate - Intelligent Multimedia Streaming Strategy - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b255a51ade4306aa635bea?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
