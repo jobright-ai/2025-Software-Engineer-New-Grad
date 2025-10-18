@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Octus](https://octus.com)** | **[Frontend Engineer](https://jobright.ai/jobs/info/68d6c4add3fe025a3015be5e?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Oct 18 |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d594fa63d77d6f6f3f0992?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 17 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Avionics Software Engineer 1 – Early Career 2025 University Grad](https://jobright.ai/jobs/info/689bb20579a9f96662532cbc?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 17 |
 | **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 16 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a390f83d13d1f5b696f9e?utm_campaign=Software%20Engineering&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 15 |
 | **[Atlassian](https://www.atlassian.com)** | **[Software Engineer, 2026 Graduate U.S.](https://jobright.ai/jobs/info/68d8b554eed6e340d9e1d042?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a3e6f5574fd6bc0c80d41?utm_campaign=Software%20Engineering&utm_source=1103)** | Philadelphia, PA | Hybrid | Oct 15 |
-| **[Prudential Financial](http://www.prudential.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d2fe23f0d9af73038ddfdb?utm_campaign=Software%20Engineering&utm_source=1103)** | Newark, NJ | On Site | Oct 15 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Software Engineer, Systems and Infrastructure](https://jobright.ai/jobs/info/68d301b717554c2d9eeecd44?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | Hybrid | Oct 15 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a34effaa4e875e8256ab7?utm_campaign=Software%20Engineering&utm_source=1103)** | Boise, ID | Hybrid | Oct 15 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Temporary Power Platform Developer](https://jobright.ai/jobs/info/68daa0df6df7b8311bb10691?utm_campaign=Software%20Engineering&utm_source=1103)** | West Greenwich, RI | Hybrid | Oct 15 |
