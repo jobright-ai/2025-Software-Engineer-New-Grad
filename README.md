@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Welocalize](http://www.welocalize.com)** | **[Slovenian Localization QA Tester/Proofreader in Cupertino, CA](https://jobright.ai/jobs/info/689848b683d13d1f5b68cf41?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 12 |
 | **[ByteDance](http://bytedance.com)** | **[3D Graphics Software Engineer Graduate (PICO Foundation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cd5f05e23def7af55b9104?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Trading Systems Associate](https://jobright.ai/jobs/info/68b10490e815524ae11fa9c9?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 11 |
-| **[Guidehouse](https://guidehouse.com)** | **[Junior Developer](https://jobright.ai/jobs/info/68ceafd0fb49c96ca6ea2ce9?utm_campaign=Software%20Engineering&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
