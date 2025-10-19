@@ -127,5 +127,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Developer (Journeyman) Future Need - Security Clearance Required](https://jobright.ai/jobs/info/68daffac0dffed6f83d2bc3d?utm_campaign=Software%20Engineering&utm_source=1103)** | Pensacola, FL | On Site | Oct 13 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[R&D Engineer II - Embedded Firmware](https://jobright.ai/jobs/info/68ce6bdafb49c96ca6ea0393?utm_campaign=Software%20Engineering&utm_source=1103)** | Alameda, CA | On Site | Oct 12 |
 | **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/67b4f43319770644570d0697?utm_campaign=Software%20Engineering&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 12 |
-| **[CGI](https://www.cgi.com)** | **[Software Developer](https://jobright.ai/jobs/info/68abdaf9daf1431824c90835?utm_campaign=Software%20Engineering&utm_source=1103)** | Newport News, VA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
