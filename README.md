@@ -110,7 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Atlassian](https://www.atlassian.com)** | **[Software Engineer, 2026 Graduate U.S.](https://jobright.ai/jobs/info/68d8b554eed6e340d9e1d042?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a3e6f5574fd6bc0c80d41?utm_campaign=Software%20Engineering&utm_source=1103)** | Philadelphia, PA | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a34effaa4e875e8256ab7?utm_campaign=Software%20Engineering&utm_source=1103)** | Boise, ID | Hybrid | Oct 15 |
-| **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1e66ca54edb3bf3e1750f?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 14 |
-| ↳ | **[New Grad 2026 - Technology, Infrastructure & Operations](https://jobright.ai/jobs/info/68d1ea1b8c62e63bc7fd0f82?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 14 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Dev Engineer II - AMZ26555.1](https://jobright.ai/jobs/info/68cf33b2846f0b04af67fc3c?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
