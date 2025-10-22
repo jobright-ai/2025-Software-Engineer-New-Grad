@@ -159,5 +159,4 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cd599f1ad6b16f02898332?utm_campaign=Software%20Engineering&utm_source=1103)** | Kirkland, WA | On Site | Oct 08 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Software Dev Engineer II - AMZ26548.1](https://jobright.ai/jobs/info/68cf80bbdbd9fb154ede85b9?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, CA | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68ce6754fb49c96ca6ea0170?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Oct 08 |
-| **[Travelers](https://www.travelers.com)** | **[Software Engineer I (Salesforce)](https://jobright.ai/jobs/info/68cce27177add66568abb6b7?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
