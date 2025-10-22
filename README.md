@@ -163,6 +163,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Software Engineer I (Salesforce)](https://jobright.ai/jobs/info/68cce27177add66568abb6b7?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cf7380846f0b04af68234c?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 08 |
 | **[Shipt](https://www.shipt.com)** | **[Associate Engineer - Core Services](https://jobright.ai/jobs/info/68cf0897846f0b04af67edd9?utm_campaign=Software%20Engineering&utm_source=1103)** | Minneapolis, MN | Hybrid | Oct 08 |
-| ↳ | **[Associate Engineer - Core Services](https://jobright.ai/jobs/info/68ccef7b77add66568abc34b?utm_campaign=Software%20Engineering&utm_source=1103)** | Birmingham, AL | Hybrid | Oct 08 |
-| **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Embedded Systems and Firmware, 2026 Start](https://jobright.ai/jobs/info/68cf5781846f0b04af6815b2?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
