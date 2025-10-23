@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d594fa63d77d6f6f3f0992?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 17 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Avionics Software Engineer 1 – Early Career 2025 University Grad](https://jobright.ai/jobs/info/689bb20579a9f96662532cbc?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 17 |
-| **[CardFlight](https://cardflight.com)** | **[Junior Backend Software Engineer](https://jobright.ai/jobs/info/68cc7ccc128dc347fd9259d2?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Hybrid | Oct 16 |
 | **[TeleTracking](http://teletracking.com/)** | **[Software Engineer I](https://jobright.ai/jobs/info/68d444068c62e63bc7fe735e?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 16 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26488.1](https://jobright.ai/jobs/info/68ccd341b274cd205ab4fe96?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | ↳ | **[Software Dev Engineer II - AMZ26505.1](https://jobright.ai/jobs/info/68ccda92d11b445e0bee30ff?utm_campaign=Software%20Engineering&utm_source=1103)** | East Palo Alto, CA | On Site | Oct 16 |
@@ -99,8 +98,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68c88fed983e6768bc54f243?utm_campaign=Software%20Engineering&utm_source=1103)** | Charlotte, NC | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68cf0905846f0b04af67eebb?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689ae7215574fd6bc0c877f7?utm_campaign=Software%20Engineering&utm_source=1103)** | Richmond, VA | Hybrid | Oct 15 |
-| **[Blue Origin](http://www.blueorigin.com)** | **[Software Development Engineer I – Early Career & New Graduate Rotation (2025-2026 Starts)](https://jobright.ai/jobs/info/68cd5d6d1ad6b16f02898b6e?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
-| **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ccf1585954791a1d7018b5?utm_campaign=Software%20Engineering&utm_source=1103)** | Cleveland, OH | Hybrid | Oct 15 |
+| ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/68ccf1585954791a1d7018b5?utm_campaign=Software%20Engineering&utm_source=1103)** | Cleveland, OH | Hybrid | Oct 15 |
 | ↳ | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a390f83d13d1f5b696f9e?utm_campaign=Software%20Engineering&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 15 |
 | **[Atlassian](https://www.atlassian.com)** | **[Software Engineer, 2026 Graduate U.S.](https://jobright.ai/jobs/info/68d8b554eed6e340d9e1d042?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Virtual Cards)](https://jobright.ai/jobs/info/689a3e6f5574fd6bc0c80d41?utm_campaign=Software%20Engineering&utm_source=1103)** | Philadelphia, PA | Hybrid | Oct 15 |
