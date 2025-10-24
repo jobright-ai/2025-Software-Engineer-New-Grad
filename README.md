@@ -139,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Software Engineer (C++ or Python) – 2026 Grads](https://jobright.ai/jobs/info/68cd4a5ab2a74e1837ed4f47?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Fullstack Software Engineer Graduate (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf04b7fb49c96ca6ea5272?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 10 |
 | **[Samsara](http://www.samsara.com)** | **[(New Grad) Software Engineering](https://jobright.ai/jobs/info/68ccee1cd11b445e0bee4649?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | Hybrid | Oct 10 |
-| **[AssetMark](http://www.assetmark.com)** | **[Java Server Side Developer](https://jobright.ai/jobs/info/68d4f324e678d65ec7d89cff?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
