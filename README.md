@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Quality Assurance Engineer III - AMZ23108.4](https://jobright.ai/jobs/info/68cfae46846f0b04af684564?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[AppLovin](https://www.applovin.com)** | **[Solutions Engineer I](https://jobright.ai/jobs/info/68af8e07962903596357d95b?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Software Dev Engineer II - AMZ26532.1](https://jobright.ai/jobs/info/68cf089a846f0b04af67ede0?utm_campaign=Software%20Engineering&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 10 |
-| **[ATEC Spine](https://atecspine.com)** | **[Software Test Engineer I, Mobile](https://jobright.ai/jobs/info/68ccae9e128dc347fd9283db?utm_campaign=Software%20Engineering&utm_source=1103)** | Carlsbad, CA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
