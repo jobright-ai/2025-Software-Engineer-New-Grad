@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Trading Systems Associate](https://jobright.ai/jobs/info/68b10490e815524ae11fa9c9?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Guidehouse](https://guidehouse.com)** | **[Junior Developer](https://jobright.ai/jobs/info/68ceafd0fb49c96ca6ea2ce9?utm_campaign=Software%20Engineering&utm_source=1103)** | Fairview Heights, IL | On Site | Oct 11 |
 | **[Supermicro](http://www.supermicro.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cec74e846f0b04af67ce75?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 11 |
-| **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/68c8d2fef9c6ff7aedf12d5b?utm_campaign=Software%20Engineering&utm_source=1103)** | Greater Sacramento | Hybrid | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
