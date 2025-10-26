@@ -93,6 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Figma](https://www.figma.com)** | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1ed62a54edb3bf3e1796e?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 14 |
 | ↳ | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1f5aaa54edb3bf3e18229?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Infrastructure Engineer I (Des Moines, IA- Multiple Openings)](https://jobright.ai/jobs/info/687a25002097a271a897d743?utm_campaign=Software%20Engineering&utm_source=1103)** | Des Moines, IA | Hybrid | Oct 13 |
-| **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[R&D Engineer II - Embedded Firmware](https://jobright.ai/jobs/info/68ce6bdafb49c96ca6ea0393?utm_campaign=Software%20Engineering&utm_source=1103)** | Alameda, CA | On Site | Oct 12 |
-| **[Carollo Engineers](http://www.carollo.com)** | **[Infrastructure Engineer (All levels Entry through Senior)](https://jobright.ai/jobs/info/67b4f43319770644570d0697?utm_campaign=Software%20Engineering&utm_source=1103)** | Walnut Creek, CA | Hybrid | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
