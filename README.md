@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1eb7f8c62e63bc7fd10a6?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | Hybrid | Oct 14 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[iOS Engineer 1 - Customer Mobile Applications Team - HYBRID (Seattle, WA)](https://jobright.ai/jobs/info/68d23a49a54edb3bf3e1c250?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | Hybrid | Oct 14 |
 | **[Figma](https://www.figma.com)** | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1ed62a54edb3bf3e1796e?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 14 |
-| ↳ | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1f5aaa54edb3bf3e18229?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
