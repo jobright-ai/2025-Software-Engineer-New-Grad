@@ -166,5 +166,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer, Back End (Finance Tech)](https://jobright.ai/jobs/info/68dad6c90b832179ca4b17eb?utm_campaign=Software%20Engineering&utm_source=1103)** | Richmond, VA | On Site | Sep 29 |
 | **[Proven IT](https://www.provenit.com/)** | **[Project Engineer I](https://jobright.ai/jobs/info/68dad5d60b832179ca4b165c?utm_campaign=Software%20Engineering&utm_source=1103)** | Tinley Park, IL | On Site | Sep 29 |
 | **[Navan](https://navan.com)** | **[New College Grad Software Engineer - Backend](https://jobright.ai/jobs/info/68daff31e9b48513789b0f70?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Sep 29 |
-| **[Mimecast](http://www.mimecast.com)** | **[Software Development Engineer in Test](https://jobright.ai/jobs/info/68da987e0b832179ca4aea58?utm_campaign=Software%20Engineering&utm_source=1103)** | United States of America - Ohio - Columbus | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
