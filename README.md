@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[CNH](http://www.cnhindustrial.com)** | **[Innovation Embedded Software Developer](https://jobright.ai/jobs/info/68cfe3a7fb49c96ca6eac55b?utm_campaign=Software%20Engineering&utm_source=1103)** | Goodfield, IL | Hybrid | Oct 01 |
 | **[BeaconFire Solution Inc.](https://www.beaconfiresolution.com/)** | **[Java Software Engineer](https://jobright.ai/jobs/info/68d43a0817554c2d9eef7267?utm_campaign=Software%20Engineering&utm_source=1103)** | East Windsor, NJ | On Site | Sep 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - Azure Core One Fleet Platform Team](https://jobright.ai/jobs/info/68db72c69f13662d20e4b6e6?utm_campaign=Software%20Engineering&utm_source=1103)** | USA | Remote | Sep 29 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Early Career Firmware Engineer](https://jobright.ai/jobs/info/68db49e5e19b9e63ba20a539?utm_campaign=Software%20Engineering&utm_source=1103)** | Costa Mesa, California, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
