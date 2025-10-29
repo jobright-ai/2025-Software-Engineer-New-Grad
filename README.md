@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cross River](http://crossriver.com)** | **[Associate, Fintech Implementation](https://jobright.ai/jobs/info/68cf1dd4dbd9fb154ede5262?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Lee, NJ | On Site | Oct 29 |
 | **[Ignite Digital Services](https://ignite-digital.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68d594fa63d77d6f6f3f0992?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | Hybrid | Oct 17 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Avionics Software Engineer 1 – Early Career 2025 University Grad](https://jobright.ai/jobs/info/689bb20579a9f96662532cbc?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 17 |
 | **[TeleTracking](http://teletracking.com/)** | **[Software Engineer I](https://jobright.ai/jobs/info/68d444068c62e63bc7fe735e?utm_campaign=Software%20Engineering&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 16 |
@@ -137,13 +138,9 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Engineer I](https://jobright.ai/jobs/info/68cdad30e23def7af55bdbef?utm_campaign=Software%20Engineering&utm_source=1103)** | Warrendale, PA | On Site | Oct 08 |
 | **[Google](https://www.google.com)** | **[Software Engineer, PhD, Early Career, Infrastructure, 2026 Start](https://jobright.ai/jobs/info/68cd4ba51ad6b16f02897a9b?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Software Developer TS/SCI w/Polygraph](https://jobright.ai/jobs/info/68cd6f8ab2a74e1837ed6e57?utm_campaign=Software%20Engineering&utm_source=1103)** | McLean, VA | On Site | Oct 08 |
-| **[Cross River](http://crossriver.com)** | **[Associate, Fintech Implementation](https://jobright.ai/jobs/info/68cf1dd4dbd9fb154ede5262?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Lee, NJ | On Site | Oct 07 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Implementation Analyst II](https://jobright.ai/jobs/info/68d610421f7fb2169ab15988?utm_campaign=Software%20Engineering&utm_source=1103)** | Westerville, OH | On Site | Oct 06 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Innovation Embedded Software Developer](https://jobright.ai/jobs/info/68cfe3a7fb49c96ca6eac55b?utm_campaign=Software%20Engineering&utm_source=1103)** | Goodfield, IL | Hybrid | Oct 01 |
 | **[BeaconFire Solution Inc.](https://www.beaconfiresolution.com/)** | **[Java Software Engineer](https://jobright.ai/jobs/info/68d43a0817554c2d9eef7267?utm_campaign=Software%20Engineering&utm_source=1103)** | East Windsor, NJ | On Site | Sep 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Software Engineer - Azure Core One Fleet Platform Team](https://jobright.ai/jobs/info/68db72c69f13662d20e4b6e6?utm_campaign=Software%20Engineering&utm_source=1103)** | USA | Remote | Sep 29 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Early Career Firmware Engineer](https://jobright.ai/jobs/info/68db49e5e19b9e63ba20a539?utm_campaign=Software%20Engineering&utm_source=1103)** | Costa Mesa, California, United States | On Site | Sep 29 |
-| **[Principal Financial Group](https://www.principalam.com/)** | **[Infrastructure Engineer I (Addison, TX)](https://jobright.ai/jobs/info/68db369d9f13662d20e489bc?utm_campaign=Software%20Engineering&utm_source=1103)** | Addison, Texas | On Site | Sep 29 |
-| **[Apple](https://www.apple.com)** | **[Software Quality Engineering Manager](https://jobright.ai/jobs/info/68db2abf0dffed6f83d2ce15?utm_campaign=Software%20Engineering&utm_source=1103)** | Cupertino, California, United States | On Site | Sep 29 |
-| **[TabaPay](https://www.tabapay.com)** | **[Backend API Engineer](https://jobright.ai/jobs/info/68db23f36df7b8311bb16446?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
