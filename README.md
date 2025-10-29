@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Neuralink](https://www.neuralink.com)** | **[Quality Assurance Specialist](https://jobright.ai/jobs/info/68cb1e34ba798c1a501cbf16?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Oct 15 |
 | ↳ | **[Software Engineer, Hippocampus Team](https://jobright.ai/jobs/info/67c0d4765091b259c0a9d936?utm_campaign=Software%20Engineering&utm_source=1103)** | Fremont, CA | On Site | Oct 15 |
 | **[KLA](https://www.kla.com)** | **[Diagnostics Software Engineer](https://jobright.ai/jobs/info/68cf576a846f0b04af681546?utm_campaign=Software%20Engineering&utm_source=1103)** | Milpitas, CA | On Site | Oct 15 |
-| **[Neuralink](https://www.neuralink.com)** | **[Software Engineer, BCI Applications](https://jobright.ai/jobs/info/68cba33b9e3a822f5d249936?utm_campaign=Software%20Engineering&utm_source=1103)** | Fremont, CA | On Site | Oct 15 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. MarTech Solutions Architect](https://jobright.ai/jobs/info/67eec162357dc4681d86426f?utm_campaign=Software%20Engineering&utm_source=1103)** | Harrisburg, PA | On Site | Oct 15 |
 | **[Atlassian](https://www.atlassian.com)** | **[Software Engineer, 2026 Graduate U.S.](https://jobright.ai/jobs/info/68d8b554eed6e340d9e1d042?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Oct 15 |
 | **[LPL Financial](https://www.lpl.com)** | **[New Grad 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1e66ca54edb3bf3e1750f?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Mill, SC | Hybrid | Oct 14 |
@@ -168,5 +167,4 @@ For a complete list, click the following sortable link below:
 | **[Proven IT](https://www.provenit.com/)** | **[Project Engineer I](https://jobright.ai/jobs/info/68dad5d60b832179ca4b165c?utm_campaign=Software%20Engineering&utm_source=1103)** | Tinley Park, IL | On Site | Sep 29 |
 | **[Navan](https://navan.com)** | **[New College Grad Software Engineer - Backend](https://jobright.ai/jobs/info/68daff31e9b48513789b0f70?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Sep 29 |
 | **[Mimecast](http://www.mimecast.com)** | **[Software Development Engineer in Test](https://jobright.ai/jobs/info/68da987e0b832179ca4aea58?utm_campaign=Software%20Engineering&utm_source=1103)** | United States of America - Ohio - Columbus | Hybrid | Sep 29 |
-| **[Zoho](https://www.zoho.com)** | **[Business Software Solutions Engineer - Zoho](https://jobright.ai/jobs/info/68da6b1807c157682e56a309?utm_campaign=Software%20Engineering&utm_source=1103)** | New Braunfels, TX | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
