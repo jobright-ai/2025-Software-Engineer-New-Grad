@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Fullstack Software Engineer Graduate (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cf04b7fb49c96ca6ea5272?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Oct 10 |
 | **[Analog Devices](http://www.analog.com)** | **[Embedded Software](https://jobright.ai/jobs/info/68af48f07bcb7608b3d2c2ff?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | On Site | Oct 09 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Implementation Analyst II](https://jobright.ai/jobs/info/68d610421f7fb2169ab15988?utm_campaign=Software%20Engineering&utm_source=1103)** | Westerville, OH | On Site | Oct 06 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Innovation Embedded Software Developer](https://jobright.ai/jobs/info/68cfe3a7fb49c96ca6eac55b?utm_campaign=Software%20Engineering&utm_source=1103)** | Goodfield, IL | Hybrid | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
