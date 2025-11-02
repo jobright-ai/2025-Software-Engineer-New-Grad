@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Figma](https://www.figma.com)** | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1ed62a54edb3bf3e1796e?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Oct 14 |
 | ↳ | **[Early Career, Software Engineer (2026)](https://jobright.ai/jobs/info/68d1f5aaa54edb3bf3e18229?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Oct 14 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[R&D Engineer II - Embedded Firmware](https://jobright.ai/jobs/info/68ce6bdafb49c96ca6ea0393?utm_campaign=Software%20Engineering&utm_source=1103)** | Alameda, CA | On Site | Oct 12 |
-| **[Tower Research Capital](http://www.tower-research.com/)** | **[Software Engineer, C++ (2026)](https://jobright.ai/jobs/info/68c7a090c96a22563ecf38ea?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | On Site | Oct 12 |
 | **[Analog Devices](http://www.analog.com)** | **[Embedded Software](https://jobright.ai/jobs/info/68af48f07bcb7608b3d2c2ff?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | On Site | Oct 09 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Implementation Analyst II](https://jobright.ai/jobs/info/68d610421f7fb2169ab15988?utm_campaign=Software%20Engineering&utm_source=1103)** | Westerville, OH | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
