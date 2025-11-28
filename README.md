@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Naughty Dog](http://www.naughtydog.com)** | **[(Italian) Associate QA Tester / Language Development Support (Remote)](https://jobright.ai/jobs/info/69236ba738cd5478a8d5693e?utm_campaign=Software%20Engineering&utm_source=1103)** | United States, Remote | Remote | Nov 27 |
+| **[Nutanix](http://www.nutanix.com)** | **[Software Engineer 1 / Early Career  - U.S based undergrads ONLY (Python, Linux, Troubleshoot/debug/Wireshark/TCPDump)](https://jobright.ai/jobs/info/69251ac9c0cefa13343e6959?utm_campaign=Software%20Engineering&utm_source=1103)** | Durham, NC | Hybrid | Nov 27 |
 | **[ByteDance](http://bytedance.com)** | **[Frontend Software Engineer, Global E-commerce Supply Chain and Logistics](https://jobright.ai/jobs/info/6928c068d47de4798ece3aa6?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | On Site | Nov 27 |
 | **[Clerkie](https://clerkie.io)** | **[Full-Stack Engineer](https://jobright.ai/jobs/info/68df1e7efe896042b0b76c8e?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Nov 27 |
 | **[Flex](https://getflex.com)** | **[Software Engineer I, Backend (New Grad - 2025)](https://jobright.ai/jobs/info/691e2154a49a885af9a2547c?utm_campaign=Software%20Engineering&utm_source=1103)** | Remote (U.S.) | Remote | Nov 27 |
@@ -132,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[KBR, Inc.](https://www.kbr.com)** | **[Junior Computer Engineer](https://jobright.ai/jobs/info/69278a7fd47de4798ecde3ad?utm_campaign=Software%20Engineering&utm_source=1103)** | Aberdeen Proving Ground, MD | Hybrid | Nov 26 |
 | **[CLEAR](http://www.clearme.com)** | **[Software Engineer, New Grad, Backend](https://jobright.ai/jobs/info/69277752d47de4798ecdcf03?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Nov 26 |
 | ↳ | **[Software Engineer, New Grad, Web](https://jobright.ai/jobs/info/692776b9d47de4798ecdceb3?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | On Site | Nov 26 |
+| **[Medtronic](https://www.medtronic.com)** | **[Front-end Software Engineer I](https://jobright.ai/jobs/info/6927649d91ceeb2e8a53ec48?utm_campaign=Software%20Engineering&utm_source=1103)** | Northridge, California, United States of America | Hybrid | Nov 26 |
 | **[Second Harvest](https://secondharvest.ca)** | **[Full Stack Software Engineer](https://jobright.ai/jobs/info/692771a7f0beb0723262a4a6?utm_campaign=Software%20Engineering&utm_source=1103)** | Remote (Within Canada) | Remote | Nov 26 |
 | **[Ivo](https://www.ivo.ai)** | **[Software Engineer, Frontend](https://jobright.ai/jobs/info/69277150f0beb0723262a44a?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco Bay Area | On Site | Nov 26 |
 | **[Darktrace](https://www.darktrace.com)** | **[Cyber Infrastructure Engineer](https://jobright.ai/jobs/info/692770f7d47de4798ecdcbe1?utm_campaign=Software%20Engineering&utm_source=1103)** | Miami, FL | On Site | Nov 26 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[LARAVEL DEVELOPER](https://jobright.ai/jobs/info/69277bb691ceeb2e8a53ffa7?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | Remote | Nov 26 |
 | ↳ | **[FRONT END DEVELOPER](https://jobright.ai/jobs/info/692780d1f0beb0723262b465?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | Remote | Nov 26 |
 | ↳ | **[MAGENTO DEVELOPER](https://jobright.ai/jobs/info/69277e0f91ceeb2e8a5403ba?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | Remote | Nov 26 |
-| **[Medtronic](https://www.medtronic.com)** | **[Front-end Software Engineer I](https://jobright.ai/jobs/info/6927663891ceeb2e8a53edff?utm_campaign=Software%20Engineering&utm_source=1103)** | Northridge, California, United States of America | Hybrid | Nov 26 |
 | **[True Anomaly](https://www.trueanomaly.space)** | **[QA Software Engineer I](https://jobright.ai/jobs/info/692765e4d47de4798ecdc352?utm_campaign=Software%20Engineering&utm_source=1103)** | Long Beach, CA | Hybrid | Nov 26 |
 | **[Vast.ai](https://vast.ai)** | **[C++ Software Engineer — Systems](https://jobright.ai/jobs/info/6848e942132739e8bcbe8e16?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Nov 26 |
 | **[Old Dominion Freight Line](http://www.odfl.com)** | **[Java Developer I](https://jobright.ai/jobs/info/6927646bf0beb07232629b95?utm_campaign=Software%20Engineering&utm_source=1103)** | Mesa, AZ | On Site | Nov 26 |
@@ -158,8 +160,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[iOS Software Engineer, Monetization Client - Ads Core Technology, Demonstration](https://jobright.ai/jobs/info/6927630591ceeb2e8a53eabf?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | On Site | Nov 26 |
 | **[Old Dominion Freight Line](http://www.odfl.com)** | **[Java Developer I](https://jobright.ai/jobs/info/692762eff0beb07232629a88?utm_campaign=Software%20Engineering&utm_source=1103)** | Odessa, TX | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/692762eff0beb07232629a89?utm_campaign=Software%20Engineering&utm_source=1103)** | Lakeland, FL | On Site | Nov 26 |
-| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/692762d5f0beb07232629a82?utm_campaign=Software%20Engineering&utm_source=1103)** | Walpole, NH | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/692762d5f0beb07232629a83?utm_campaign=Software%20Engineering&utm_source=1103)** | Dracut, MA | On Site | Nov 26 |
+| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/692762d5f0beb07232629a82?utm_campaign=Software%20Engineering&utm_source=1103)** | Walpole, NH | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/692762a5f0beb07232629a73?utm_campaign=Software%20Engineering&utm_source=1103)** | Grand Junction, CO | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69276288f0beb07232629a68?utm_campaign=Software%20Engineering&utm_source=1103)** | Pasco, WA | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/6927624af0beb07232629a53?utm_campaign=Software%20Engineering&utm_source=1103)** | Columbus, OH | On Site | Nov 26 |
@@ -170,10 +172,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/692761c5f0beb07232629a2d?utm_campaign=Software%20Engineering&utm_source=1103)** | Springfield, MO | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/692761b3f0beb07232629a24?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Rosa, CA | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/6927613cf0beb07232629a05?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | On Site | Nov 26 |
-| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69276129f0beb072326299fe?utm_campaign=Software%20Engineering&utm_source=1103)** | Cookeville, TN | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69276129f0beb072326299ff?utm_campaign=Software%20Engineering&utm_source=1103)** | Bridgeville, DE | On Site | Nov 26 |
-| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/6927611ff0beb072326299f9?utm_campaign=Software%20Engineering&utm_source=1103)** | Thomasville, NC | On Site | Nov 26 |
+| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69276129f0beb072326299fe?utm_campaign=Software%20Engineering&utm_source=1103)** | Cookeville, TN | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/6927611ff0beb072326299f7?utm_campaign=Software%20Engineering&utm_source=1103)** | Indianapolis, IN | On Site | Nov 26 |
+| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/6927611ff0beb072326299f9?utm_campaign=Software%20Engineering&utm_source=1103)** | Thomasville, NC | On Site | Nov 26 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69276003f0beb0723262992e?utm_campaign=Software%20Engineering&utm_source=1103)** | Alexandria, VA | On Site | Nov 26 |
 | **[Old Dominion Freight Line](http://www.odfl.com)** | **[Java Developer I](https://jobright.ai/jobs/info/69275fb591ceeb2e8a53e865?utm_campaign=Software%20Engineering&utm_source=1103)** | Conover, NC | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275fa891ceeb2e8a53e856?utm_campaign=Software%20Engineering&utm_source=1103)** | Eighty Four, PA | On Site | Nov 26 |
@@ -208,8 +210,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d7bf0beb07232629755?utm_campaign=Software%20Engineering&utm_source=1103)** | Dunbar, WV | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d7791ceeb2e8a53e70b?utm_campaign=Software%20Engineering&utm_source=1103)** | Birmingham, AL | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d5cf0beb07232629742?utm_campaign=Software%20Engineering&utm_source=1103)** | Montebello, CA | On Site | Nov 26 |
-| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d56f0beb0723262973c?utm_campaign=Software%20Engineering&utm_source=1103)** | Price, UT | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d5691ceeb2e8a53e6fd?utm_campaign=Software%20Engineering&utm_source=1103)** | Edinburgh, IN | On Site | Nov 26 |
+| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d56f0beb0723262973c?utm_campaign=Software%20Engineering&utm_source=1103)** | Price, UT | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d4ef0beb07232629735?utm_campaign=Software%20Engineering&utm_source=1103)** | Honolulu, HI | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d24d47de4798ecdbd89?utm_campaign=Software%20Engineering&utm_source=1103)** | Fayetteville, NC | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275d16f0beb072326296fc?utm_campaign=Software%20Engineering&utm_source=1103)** | Katy, Texas | On Site | Nov 26 |
@@ -228,8 +230,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275cc0f0beb072326296a4?utm_campaign=Software%20Engineering&utm_source=1103)** | Jersey City, NJ | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275cbdd47de4798ecdbd22?utm_campaign=Software%20Engineering&utm_source=1103)** | Brooklyn, NY | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275cb791ceeb2e8a53e6ae?utm_campaign=Software%20Engineering&utm_source=1103)** | Arden, NC | On Site | Nov 26 |
-| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275cb5f0beb0723262969e?utm_campaign=Software%20Engineering&utm_source=1103)** | Conley, GA | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275cb5f0beb0723262969f?utm_campaign=Software%20Engineering&utm_source=1103)** | Albuquerque, NM | On Site | Nov 26 |
+| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275cb5f0beb0723262969e?utm_campaign=Software%20Engineering&utm_source=1103)** | Conley, GA | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275ca1d47de4798ecdbd02?utm_campaign=Software%20Engineering&utm_source=1103)** | Wando, SC | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275ca091ceeb2e8a53e6a7?utm_campaign=Software%20Engineering&utm_source=1103)** | Elko, NV | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275c8ad47de4798ecdbcf4?utm_campaign=Software%20Engineering&utm_source=1103)** | West Sacramento, CA | On Site | Nov 26 |
@@ -259,9 +261,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275ba0d47de4798ecdbc4f?utm_campaign=Software%20Engineering&utm_source=1103)** | Spokane Valley, WA | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275b7df0beb07232629590?utm_campaign=Software%20Engineering&utm_source=1103)** | Rock Island, IL | On Site | Nov 26 |
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Web Developer](https://jobright.ai/jobs/info/69275b7b91ceeb2e8a53e5d9?utm_campaign=Software%20Engineering&utm_source=1103)** | Luke Ave SW | On Site | Nov 26 |
-| **[Old Dominion Freight Line](http://www.odfl.com)** | **[Java Developer I](https://jobright.ai/jobs/info/69275b6891ceeb2e8a53e5cf?utm_campaign=Software%20Engineering&utm_source=1103)** | Lansing, MI | On Site | Nov 26 |
+| **[Old Dominion Freight Line](http://www.odfl.com)** | **[Java Developer I](https://jobright.ai/jobs/info/69275b6891ceeb2e8a53e5d0?utm_campaign=Software%20Engineering&utm_source=1103)** | Neenah, WI | On Site | Nov 26 |
+| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275b6891ceeb2e8a53e5cf?utm_campaign=Software%20Engineering&utm_source=1103)** | Lansing, MI | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275b6891ceeb2e8a53e5ce?utm_campaign=Software%20Engineering&utm_source=1103)** | New Castle, DE | On Site | Nov 26 |
-| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275b6891ceeb2e8a53e5d0?utm_campaign=Software%20Engineering&utm_source=1103)** | Neenah, WI | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275b36d47de4798ecdbbee?utm_campaign=Software%20Engineering&utm_source=1103)** | Lubbock, TX | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275b33f0beb0723262954c?utm_campaign=Software%20Engineering&utm_source=1103)** | St. Louis, MO | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275b2cf0beb07232629547?utm_campaign=Software%20Engineering&utm_source=1103)** | Pennsauken, NJ | On Site | Nov 26 |
@@ -273,8 +275,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275af8f0beb07232629519?utm_campaign=Software%20Engineering&utm_source=1103)** | Windsor, WI | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275aabd47de4798ecdbb97?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, OR | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275aa391ceeb2e8a53e53e?utm_campaign=Software%20Engineering&utm_source=1103)** | Portland, ME | On Site | Nov 26 |
-| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275a99d47de4798ecdbb85?utm_campaign=Software%20Engineering&utm_source=1103)** | Carson, CA | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275a99d47de4798ecdbb86?utm_campaign=Software%20Engineering&utm_source=1103)** | Lockwood, NV | On Site | Nov 26 |
+| ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275a99d47de4798ecdbb85?utm_campaign=Software%20Engineering&utm_source=1103)** | Carson, CA | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275a7ff0beb072326294bc?utm_campaign=Software%20Engineering&utm_source=1103)** | Parkersburg, WV | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275a6ff0beb072326294b1?utm_campaign=Software%20Engineering&utm_source=1103)** | Orange, CA | On Site | Nov 26 |
 | ↳ | **[Java Developer I](https://jobright.ai/jobs/info/69275a6ff0beb072326294b0?utm_campaign=Software%20Engineering&utm_source=1103)** | Decatur, IL | On Site | Nov 26 |
@@ -441,8 +443,8 @@ For a complete list, click the following sortable link below:
 | **[VectorShift](https://www.vectorshift.ai)** | **[Frontend Engineer (India)](https://jobright.ai/jobs/info/6925083eec574f4265bbab5f?utm_campaign=Software%20Engineering&utm_source=1103)** | IN | Remote | Nov 24 |
 | ↳ | **[QA Engineer (India)](https://jobright.ai/jobs/info/692506d238cd5478a8d617a5?utm_campaign=Software%20Engineering&utm_source=1103)** | IN / Remote (IN) | Remote | Nov 24 |
 | **[Auria Space](https://www.auria.space)** | **[Software Engineer](https://jobright.ai/jobs/info/6926101927bf2f41a2c42fdb?utm_campaign=Software%20Engineering&utm_source=1103)** | Colorado Springs, CO | Hybrid | Nov 24 |
-| **[VectorShift](https://www.vectorshift.ai)** | **[QA Engineer (India)](https://jobright.ai/jobs/info/69250f6938cd5478a8d61e6d?utm_campaign=Software%20Engineering&utm_source=1103)** | IN | Remote | Nov 24 |
-| ↳ | **[Backend Engineer (India)](https://jobright.ai/jobs/info/69250f27c0cefa13343e609c?utm_campaign=Software%20Engineering&utm_source=1103)** | IN | Remote | Nov 24 |
+| **[VectorShift](https://www.vectorshift.ai)** | **[Backend Engineer (India)](https://jobright.ai/jobs/info/69250f27c0cefa13343e609c?utm_campaign=Software%20Engineering&utm_source=1103)** | IN | Remote | Nov 24 |
+| ↳ | **[QA Engineer (India)](https://jobright.ai/jobs/info/69250f6938cd5478a8d61e6d?utm_campaign=Software%20Engineering&utm_source=1103)** | IN | Remote | Nov 24 |
 | **[REVTech](https://therevsolution.com/)** | **[Jr. Power Platform Developer](https://jobright.ai/jobs/info/6925ea31d47de4798ecd2b90?utm_campaign=Software%20Engineering&utm_source=1103)** | Washington, DC | On Site | Nov 24 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer-Early Career](https://jobright.ai/jobs/info/69251699ec574f4265bbb7f8?utm_campaign=Software%20Engineering&utm_source=1103)** | Colorado | Hybrid | Nov 24 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Software Engineer](https://jobright.ai/jobs/info/6925077538cd5478a8d61830?utm_campaign=Software%20Engineering&utm_source=1103)** | Allen, TX | On Site | Nov 24 |
@@ -502,7 +504,6 @@ For a complete list, click the following sortable link below:
 | **[Emulate, Inc.](http://emulatebio.com)** | **[Backend Software Engineer - Embedded](https://jobright.ai/jobs/info/692375e638cd5478a8d56a8d?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | Hybrid | Nov 23 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[(Thai) Associate QA Tester / Language Development Support (Contingent)](https://jobright.ai/jobs/info/692375a338cd5478a8d56a79?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Monica, CA | Remote | Nov 23 |
 | ↳ | **[(Thai) Associate QA Tester / Language Development Support (Contingent)](https://jobright.ai/jobs/info/69236fa7c0cefa13343dac5c?utm_campaign=Software%20Engineering&utm_source=1103)** | United States, Santa Monica, CA | On Site | Nov 23 |
-| ↳ | **[(Italian) Associate QA Tester / Language Development Support (Contingent)](https://jobright.ai/jobs/info/69236ba738cd5478a8d5693e?utm_campaign=Software%20Engineering&utm_source=1103)** | United States, Santa Monica, CA | On Site | Nov 23 |
 | **[Honeywell](http://www.honeywell.com)** | **[Software Engineer & Computer Science - Recent Grad/Full Time (US Person Required)](https://jobright.ai/jobs/info/690ffe14bb519377733ea1cf?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Nov 23 |
 | ↳ | **[Software Engineer & Computer Science - Recent Grad/Full Time](https://jobright.ai/jobs/info/6922dbabc0cefa13343d9ad0?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Nov 23 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Software Engineer, C++ (2026)](https://jobright.ai/jobs/info/68c7a090c96a22563ecf38ea?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, United States | Hybrid | Nov 23 |
@@ -578,7 +579,6 @@ For a complete list, click the following sortable link below:
 | **[WITRON Group](https://careers.witron.com/)** | **[UI Developer](https://jobright.ai/jobs/info/69211f0700c9ee50eaecbdda?utm_campaign=Software%20Engineering&utm_source=1103)** | Arlington Heights, IL | On Site | Nov 21 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[R&D Python/C++ Software Developer (ESA)](https://jobright.ai/jobs/info/6913ed85d1047e3565d07222?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Nov 21 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[IT System Analyst and HIPAA Project Lead](https://jobright.ai/jobs/info/69211c0b3f782d2f1afcf3ce?utm_campaign=Software%20Engineering&utm_source=1103)** | Placer County, CA | Hybrid | Nov 21 |
-| **[Nutanix](http://www.nutanix.com)** | **[Software Engineer 1 / Early Career  - U.S based undergrads ONLY (Python, Linux, Troubleshoot/debug)](https://jobright.ai/jobs/info/69251ac9c0cefa13343e6959?utm_campaign=Software%20Engineering&utm_source=1103)** | Durham, NC | On Site | Nov 21 |
 | **[Twitch](https://www.twitch.tv)** | **[Software Engineer](https://jobright.ai/jobs/info/69211a2fa49a885af9a42ebf?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Nov 21 |
 | **[Henry Schein One](http://www.henryscheinone.com/)** | **[Software Engineer II (Imaging)](https://jobright.ai/jobs/info/69211767a49a885af9a42d25?utm_campaign=Software%20Engineering&utm_source=1103)** | Ames, IA | Hybrid | Nov 21 |
 | ↳ | **[Software Engineer II (Imaging)](https://jobright.ai/jobs/info/69211760a49a885af9a42d1d?utm_campaign=Software%20Engineering&utm_source=1103)** | Ames, IA | On Site | Nov 21 |
@@ -623,7 +623,7 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Software Engineer, Early Career](https://jobright.ai/jobs/info/68cd50e6b2a74e1837ed50b7?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA | Hybrid | Nov 21 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Applications Developer -  CHARTS](https://jobright.ai/jobs/info/692089c33f782d2f1afc8940?utm_campaign=Software%20Engineering&utm_source=1103)** | Lincoln, NE | On Site | Nov 21 |
 | ↳ | **[IT Applications Developer - CHARTS](https://jobright.ai/jobs/info/6920a8933f782d2f1afc9de6?utm_campaign=Software%20Engineering&utm_source=1103)** | Lincoln, NE | On Site | Nov 21 |
-| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Junior Software Developer](https://jobright.ai/jobs/info/6925d0f4f0beb0723261f6f7?utm_campaign=Software%20Engineering&utm_source=1103)** | KNV I | On Site | Nov 21 |
+| **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Junior Software Developer](https://jobright.ai/jobs/info/6925d0fb27bf2f41a2c40a5b?utm_campaign=Software%20Engineering&utm_source=1103)** | KNV I | On Site | Nov 21 |
 | **[Quantcast](http://www.quantcast.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cb60a8efdec76df36bbed3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 21 |
 | **[West Monroe](https://www.westmonroe.com)** | **[Cloud Engineer, Cloud & Infrastructure](https://jobright.ai/jobs/info/6903d5a9d64a22104aa93b57?utm_campaign=Software%20Engineering&utm_source=1103)** | LA Metro Area | Hybrid | Nov 21 |
 | **[M&T Bank](http://www.mtb.com)** | **[Quality Assurance Analyst I](https://jobright.ai/jobs/info/6920931300c9ee50eaec5929?utm_campaign=Software%20Engineering&utm_source=1103)** | Getzville, NY | Hybrid | Nov 21 |
@@ -652,6 +652,4 @@ For a complete list, click the following sortable link below:
 | **[Daybreak Game Company LLC](https://www.daybreakgames.com/home)** | **[QA Analyst (Temp)](https://jobright.ai/jobs/info/68a3b3371ab5f8579e8a79e1?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Nov 21 |
 | **[AppLovin](https://www.applovin.com)** | **[Solutions Engineer I](https://jobright.ai/jobs/info/68af8e07962903596357d95b?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Nov 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68e816bdc4895107182c1fc6?utm_campaign=Software%20Engineering&utm_source=1103)** | Rome, NY | Hybrid | Nov 21 |
-| **[West Des Moines Chamber of Commerce](https://www.wdmchamber.org/)** | **[Infrastructure Engineer I (Des Moines, IA)](https://jobright.ai/jobs/info/692020be3f782d2f1afc31bd?utm_campaign=Software%20Engineering&utm_source=1103)** | Des Moines Metro | On Site | Nov 21 |
-| **[SpaceX](https://www.spacex.com)** | **[Full Stack Software Engineer (Application Software)](https://jobright.ai/jobs/info/691f5e9d3f782d2f1afbb07c?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
