@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robertson Heating Supply](https://www.rhs1.com)** | **[Software Developer (Full Stack)](https://jobright.ai/jobs/info/6975284a206da320f49f3a8f?utm_campaign=Software%20Engineering&utm_source=1103)** | Robertson HTG Ohio Corp Office - Alliance, OH 44601 | On Site | Jan 24 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)](https://jobright.ai/jobs/info/69750dd137785856350f081f?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Jan 24 |
 | **[CoreFX Ingredients](https://www.corefxingredients.com)** | **[Quality Assurance Tech](https://jobright.ai/jobs/info/69750a63206da320f49f2e7a?utm_campaign=Software%20Engineering&utm_source=1103)** | Orangeville, IL | On Site | Jan 24 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Early Career Talent - Software Engineering (Apps)](https://jobright.ai/jobs/info/697506d6206da320f49f2e11?utm_campaign=Software%20Engineering&utm_source=1103)** | Irvine, CA | On Site | Jan 24 |
@@ -332,8 +333,8 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[System Software and Performance Architect](https://jobright.ai/jobs/info/69728faa4ccbf64f8df282fc?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Jan 22 |
 | ↳ | **[System Software and Performance Architect](https://jobright.ai/jobs/info/6972920d584a1c1ef6fd8f89?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Jan 22 |
 | ↳ | **[System Software and Performance Architect](https://jobright.ai/jobs/info/69728d484ccbf64f8df27fe2?utm_campaign=Software%20Engineering&utm_source=1103)** | Portland, OR | On Site | Jan 22 |
-| **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Seattle/ Bellevue, WA, Jr. Developer Program](https://jobright.ai/jobs/info/69728a559b83b424830e7b42?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, Washington, USA | On Site | Jan 22 |
-| ↳ | **[Jr. Software Development Engineer - Seattle/ Bellevue, WA, Jr. Developer Program](https://jobright.ai/jobs/info/6972832f584a1c1ef6fd7eb2?utm_campaign=Software%20Engineering&utm_source=1103)** | Bellevue, Washington, USA | On Site | Jan 22 |
+| **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Seattle/ Bellevue, WA, Jr. Developer Program](https://jobright.ai/jobs/info/6972832f584a1c1ef6fd7eb2?utm_campaign=Software%20Engineering&utm_source=1103)** | Bellevue, Washington, USA | On Site | Jan 22 |
+| ↳ | **[Jr. Software Development Engineer - Seattle/ Bellevue, WA, Jr. Developer Program](https://jobright.ai/jobs/info/69728a559b83b424830e7b42?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, Washington, USA | On Site | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[QA Tester](https://jobright.ai/jobs/info/697266474ccbf64f8df25ef3?utm_campaign=Software%20Engineering&utm_source=1103)** | Glendale, CA, USA | Hybrid | Jan 22 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Software Engineer](https://jobright.ai/jobs/info/697266119b83b424830e5bf8?utm_campaign=Software%20Engineering&utm_source=1103)** | Roanoke US VA 3 | On Site | Jan 22 |
 | **[ProbablyMonsters](http://www.probablymonsters.com)** | **[Contract QA Tester](https://jobright.ai/jobs/info/697289039b83b424830e79df?utm_campaign=Software%20Engineering&utm_source=1103)** | DFW, Texas | On Site | Jan 22 |
