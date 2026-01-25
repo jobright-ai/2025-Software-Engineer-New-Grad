@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Naughty Dog](http://www.naughtydog.com)** | **[(Korean) Associate QA Tester / Language Development Support (Remote)](https://jobright.ai/jobs/info/691ff0eaa49a885af9a358e3?utm_campaign=Software%20Engineering&utm_source=1103)** | United States, Remote | Remote | Jan 25 |
 | **[Roblox](https://corp.roblox.com)** | **[Software Engineer, Reliability](https://jobright.ai/jobs/info/68e6ecfeae2b894b1d71fb4e?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA, United States | Hybrid | Jan 25 |
 | **[CoreWeave](https://www.coreweave.com)** | **[Firmware Engineer](https://jobright.ai/jobs/info/6921101600c9ee50eaecb4aa?utm_campaign=Software%20Engineering&utm_source=1103)** | Livingston, NJ | Hybrid | Jan 25 |
 | **[Quantcast](http://www.quantcast.com)** | **[Software Engineer](https://jobright.ai/jobs/info/68cb60a8efdec76df36bbed3?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 25 |
@@ -347,8 +348,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics](https://www.gd.com)** | **[Entry Level Infrastructure Software Engineer](https://jobright.ai/jobs/info/6972f6a01790715e866be537?utm_campaign=Software%20Engineering&utm_source=1103)** | USA-MA-Pittsfield | Hybrid | Jan 22 |
 | **[Paradigm](http://myparadigm.com/)** | **[Back End Software Developer](https://jobright.ai/jobs/info/69740939206da320f49e1916?utm_campaign=Software%20Engineering&utm_source=1103)** | , United States | On Site | Jan 22 |
 | **[Google](https://www.google.com)** | **[System Software and Performance Architect](https://jobright.ai/jobs/info/69728faa4ccbf64f8df282fc?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Jan 22 |
-| ↳ | **[System Software and Performance Architect](https://jobright.ai/jobs/info/6972920d584a1c1ef6fd8f89?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Jan 22 |
 | ↳ | **[System Software and Performance Architect](https://jobright.ai/jobs/info/69728d484ccbf64f8df27fe2?utm_campaign=Software%20Engineering&utm_source=1103)** | Portland, OR | On Site | Jan 22 |
+| ↳ | **[System Software and Performance Architect](https://jobright.ai/jobs/info/6972920d584a1c1ef6fd8f89?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Jan 22 |
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Seattle/ Bellevue, WA, Jr. Developer Program](https://jobright.ai/jobs/info/69728a559b83b424830e7b42?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, Washington, USA | On Site | Jan 22 |
 | ↳ | **[Jr. Software Development Engineer - Seattle/ Bellevue, WA, Jr. Developer Program](https://jobright.ai/jobs/info/6972832f584a1c1ef6fd7eb2?utm_campaign=Software%20Engineering&utm_source=1103)** | Bellevue, Washington, USA | On Site | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[QA Tester](https://jobright.ai/jobs/info/697266474ccbf64f8df25ef3?utm_campaign=Software%20Engineering&utm_source=1103)** | Glendale, CA, USA | Hybrid | Jan 22 |
@@ -644,8 +645,8 @@ For a complete list, click the following sortable link below:
 | **[Tenstorrent](http://tenstorrent.com)** | **[GCC Compiler Engineer](https://jobright.ai/jobs/info/6941e8f850bbaf765053b4f3?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | Remote | Jan 19 |
 | ↳ | **[Software Engineer, Acceleration Kernel Development](https://jobright.ai/jobs/info/695c50e3f1f8465b79f270d9?utm_campaign=Software%20Engineering&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Embedded Software Engineer](https://jobright.ai/jobs/info/696982daf25a380066982833?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Wayne, IN | Hybrid | Jan 19 |
-| **[United Direct Solutions](https://udsolutions.com)** | **[Programmer (HYBRID)](https://jobright.ai/jobs/info/696ec515350cf4380315afd8?utm_campaign=Software%20Engineering&utm_source=1103)** | Louisville, KY, US | Hybrid | Jan 19 |
-| ↳ | **[Programmer (HYBRID)](https://jobright.ai/jobs/info/696ec21cdb26b6189511d46a?utm_campaign=Software%20Engineering&utm_source=1103)** | Cincinnati, OH, US | Hybrid | Jan 19 |
+| **[United Direct Solutions](https://udsolutions.com)** | **[Programmer (HYBRID)](https://jobright.ai/jobs/info/696ec21cdb26b6189511d46a?utm_campaign=Software%20Engineering&utm_source=1103)** | Cincinnati, OH, US | Hybrid | Jan 19 |
+| ↳ | **[Programmer (HYBRID)](https://jobright.ai/jobs/info/696ec515350cf4380315afd8?utm_campaign=Software%20Engineering&utm_source=1103)** | Louisville, KY, US | Hybrid | Jan 19 |
 | **[SpaceX](https://www.spacex.com)** | **[Software Engineer, C++ - Top Secret Clearance](https://jobright.ai/jobs/info/696e90655fc86241853d46b6?utm_campaign=Software%20Engineering&utm_source=1103)** | Hawthorne, CA | On Site | Jan 19 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Software Engineer - Operations Analysis- Early Career](https://jobright.ai/jobs/info/696e8d0a350cf43803154350?utm_campaign=Software%20Engineering&utm_source=1103)** | Georgia, Pennsylvania | Hybrid | Jan 19 |
 | **[Atomic Object](http://atomicobject.com)** | **[Atomic Accelerator Grand Rapids, 2026](https://jobright.ai/jobs/info/696e86475fc86241853d3e87?utm_campaign=Software%20Engineering&utm_source=1103)** | Grand Rapids, MI | On Site | Jan 19 |
