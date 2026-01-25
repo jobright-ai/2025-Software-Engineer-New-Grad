@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766576206da320f4a0303c?utm_campaign=Software%20Engineering&utm_source=1103)** | Washington, DC | Remote | Jan 25 |
+| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/6976656dbc8e722e7b1afd36?utm_campaign=Software%20Engineering&utm_source=1103)** | Philadelphia, PA | Remote | Jan 25 |
+| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/6976656b206da320f4a03031?utm_campaign=Software%20Engineering&utm_source=1103)** | Remote Canada | Remote | Jan 25 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)](https://jobright.ai/jobs/info/6976596137785856351008d8?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Jan 25 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[(Korean) Associate QA Tester / Language Development Support (Remote)](https://jobright.ai/jobs/info/691ff0eaa49a885af9a358e3?utm_campaign=Software%20Engineering&utm_source=1103)** | United States, Remote | Remote | Jan 25 |
 | **[Roblox](https://corp.roblox.com)** | **[Software Engineer, Reliability](https://jobright.ai/jobs/info/68e6ecfeae2b894b1d71fb4e?utm_campaign=Software%20Engineering&utm_source=1103)** | San Mateo, CA, United States | Hybrid | Jan 25 |
 | **[CoreWeave](https://www.coreweave.com)** | **[Firmware Engineer](https://jobright.ai/jobs/info/6921101600c9ee50eaecb4aa?utm_campaign=Software%20Engineering&utm_source=1103)** | Livingston, NJ | Hybrid | Jan 25 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[AppLovin](https://www.applovin.com)** | **[Solutions Engineer I](https://jobright.ai/jobs/info/68af8e07962903596357d95b?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | On Site | Jan 25 |
 | **[The Voleon Group](http://voleon.com/)** | **[Software Engineer - University Hire 2026](https://jobright.ai/jobs/info/68cf07c0846f0b04af67eb9c?utm_campaign=Software%20Engineering&utm_source=1103)** | Berkeley, CA | On Site | Jan 25 |
 | **[Daybreak Game Company LLC](https://www.daybreakgames.com/home)** | **[QA Analyst (Temp)](https://jobright.ai/jobs/info/69485501d1953b5d11c1610e?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Jan 25 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)](https://jobright.ai/jobs/info/6975e34e206da320f49fe81b?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Jan 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Tester](https://jobright.ai/jobs/info/6938640fb95c305f206d8d31?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
 | **[SpaceX](https://www.spacex.com)** | **[Software Engineer, PCBA (Starlink)](https://jobright.ai/jobs/info/69263bbed47de4798ecd5c5f?utm_campaign=Software%20Engineering&utm_source=1103)** | Redmond, WA | Hybrid | Jan 24 |
 | **[Mentra](https://mentraglass.com/)** | **[Smart Glasses OS - Software Development Engineer in Test](https://jobright.ai/jobs/info/6975738e206da320f49f7b0c?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA, US | On Site | Jan 24 |
@@ -308,7 +311,6 @@ For a complete list, click the following sortable link below:
 | **[Ascensus](https://www2.ascensus.com/)** | **[Software Engineer](https://jobright.ai/jobs/info/6972b68e4ccbf64f8df2c1ed?utm_campaign=Software%20Engineering&utm_source=1103)** | Newton, MA | Remote | Jan 22 |
 | ↳ | **[Software Engineer](https://jobright.ai/jobs/info/6972b473584a1c1ef6fdc6fe?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | Remote | Jan 22 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Quality Assurance Technician](https://jobright.ai/jobs/info/6972b13b9b83b424830eba12?utm_campaign=Software%20Engineering&utm_source=1103)** | East Aurora, New York, United States | On Site | Jan 22 |
-| **[Georgia System Operations Corporation](https://www.gasoc.com/Pages/gasochome.aspx)** | **[Systems & Infrastructure Engineer (Level I - V)](https://jobright.ai/jobs/info/69755a72206da320f49f5ac6?utm_campaign=Software%20Engineering&utm_source=1103)** | Tucker, GA | On Site | Jan 22 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Software Engineer](https://jobright.ai/jobs/info/6972b0a34ccbf64f8df2bc24?utm_campaign=Software%20Engineering&utm_source=1103)** | Dallas, TX | Remote | Jan 22 |
 | **[OppFi](https://www.oppfi.com/)** | **[Quality Assurance Analyst](https://jobright.ai/jobs/info/6972af89584a1c1ef6fdc223?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Jan 22 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Software Engineer](https://jobright.ai/jobs/info/6972af21584a1c1ef6fdc1af?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta, GA | Remote | Jan 22 |
