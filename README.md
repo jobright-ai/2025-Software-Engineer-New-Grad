@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capitolis](https://www.capitolis.com)** | **[Algo Engineer](https://jobright.ai/jobs/info/691ceb7bff7024498416bd32?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, New York, United States | On Site | Jan 26 |
+| **[Uber](http://www.uber.com)** | **[Software Engineer II- Backend, Marketplace/Maps/Membership/AV](https://jobright.ai/jobs/info/6977664bfdeb8243a27a3a62?utm_campaign=Software%20Engineering&utm_source=1103)** | San Francisco, CA | On Site | Jan 26 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Test Engineer](https://jobright.ai/jobs/info/68ea2bff4ae33307d3ed9ef5?utm_campaign=Software%20Engineering&utm_source=1103)** | Needham, MA | On Site | Jan 26 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Software Engineer I, Fullstack, Risk Engineering (New Grad - 2025)](https://jobright.ai/jobs/info/6977625c52f3c27ec6436847?utm_campaign=Software%20Engineering&utm_source=1103)** | United States | Remote | Jan 26 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[SOFTWARE DEVELOPER-JUNIOR* - 01202026-74251](https://jobright.ai/jobs/info/696f719f82817106e9767995?utm_campaign=Software%20Engineering&utm_source=1103)** | Davidson County, TN | On Site | Jan 26 |
 | **[Sony Interactive Entertainment](https://www.sie.com)** | **[Game Test Analyst](https://jobright.ai/jobs/info/690b95204a1b456627b10975?utm_campaign=Software%20Engineering&utm_source=1103)** | San Diego, CA | On Site | Jan 26 |
 | **[Aircall](https://aircall.io/)** | **[Software Engineer](https://jobright.ai/jobs/info/68afbe89b47fb001d688cc34?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, WA | Hybrid | Jan 26 |
@@ -83,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697673b5bc8e722e7b1b059d?utm_campaign=Software%20Engineering&utm_source=1103)** | Miami, FL | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697673abbc8e722e7b1b0598?utm_campaign=Software%20Engineering&utm_source=1103)** | St Louis, MO | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69767375bc8e722e7b1b0576?utm_campaign=Software%20Engineering&utm_source=1103)** | Madison, WI | Remote | Jan 25 |
-| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69767349bc8e722e7b1b0557?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69767349bc8e722e7b1b0558?utm_campaign=Software%20Engineering&utm_source=1103)** | Raleigh, NC | Remote | Jan 25 |
+| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69767349bc8e722e7b1b0557?utm_campaign=Software%20Engineering&utm_source=1103)** | Los Angeles, CA | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69767286bc8e722e7b1b04e5?utm_campaign=Software%20Engineering&utm_source=1103)** | Minneapolis, MN | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/6976726dbc8e722e7b1b04d7?utm_campaign=Software%20Engineering&utm_source=1103)** | Denver, CO | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/6976717f3778585635101392?utm_campaign=Software%20Engineering&utm_source=1103)** | Palo Alto, CA | Remote | Jan 25 |
@@ -92,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697670b3377858563510132d?utm_campaign=Software%20Engineering&utm_source=1103)** | Boise, ID | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69767095377858563510131e?utm_campaign=Software%20Engineering&utm_source=1103)** | Nashville, TN | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766c31bc8e722e7b1b0266?utm_campaign=Software%20Engineering&utm_source=1103)** | New York, NY | Remote | Jan 25 |
-| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766bd7206da320f4a034ff?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766bd7206da320f4a03500?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | Remote | Jan 25 |
+| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766bd7206da320f4a034ff?utm_campaign=Software%20Engineering&utm_source=1103)** | Boston, MA | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766b97206da320f4a034af?utm_campaign=Software%20Engineering&utm_source=1103)** | Chicago, IL | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766b97bc8e722e7b1b01c5?utm_campaign=Software%20Engineering&utm_source=1103)** | Las Vegas, NV | Remote | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766b88bc8e722e7b1b01b6?utm_campaign=Software%20Engineering&utm_source=1103)** | San Jose, CA | Remote | Jan 25 |
@@ -106,13 +110,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668d2bc8e722e7b1affbc?utm_campaign=Software%20Engineering&utm_source=1103)** | Halifax, Nova Scotia, Canada | Hybrid | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668c5206da320f4a032b4?utm_campaign=Software%20Engineering&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668bfbc8e722e7b1affa9?utm_campaign=Software%20Engineering&utm_source=1103)** | Oshawa, Ontario, Canada | Hybrid | Jan 25 |
-| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668bcbc8e722e7b1affa0?utm_campaign=Software%20Engineering&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | Hybrid | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668bcbc8e722e7b1affa1?utm_campaign=Software%20Engineering&utm_source=1103)** | Regina, Saskatchewan, Canada | Hybrid | Jan 25 |
+| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668bcbc8e722e7b1affa0?utm_campaign=Software%20Engineering&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | Hybrid | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668bb206da320f4a032ac?utm_campaign=Software%20Engineering&utm_source=1103)** | Kelowna, British Columbia, Canada | Hybrid | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668a9206da320f4a03299?utm_campaign=Software%20Engineering&utm_source=1103)** | Hamilton, Ontario, Canada | Hybrid | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697668a4206da320f4a03297?utm_campaign=Software%20Engineering&utm_source=1103)** | London, Ontario, Canada | Hybrid | Jan 25 |
-| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766892bc8e722e7b1aff7d?utm_campaign=Software%20Engineering&utm_source=1103)** | Windsor, Ontario, Canada | Hybrid | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766892bc8e722e7b1aff7e?utm_campaign=Software%20Engineering&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Jan 25 |
+| ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/69766892bc8e722e7b1aff7d?utm_campaign=Software%20Engineering&utm_source=1103)** | Windsor, Ontario, Canada | Hybrid | Jan 25 |
 | **[Visa](https://www.visa.com)** | **[Software Engineer - C/C++](https://jobright.ai/jobs/info/69772e9788e2b47213baff0f?utm_campaign=Software%20Engineering&utm_source=1103)** | Highlands Ranch, CO, US | Hybrid | Jan 25 |
 | **[Affirm](https://www.affirm.com)** | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697667323778585635100ded?utm_campaign=Software%20Engineering&utm_source=1103)** | Winnipeg, Manitoba, Canada | Hybrid | Jan 25 |
 | ↳ | **[Software Engineer II, Backend (Credit Decisioning)](https://jobright.ai/jobs/info/697667103778585635100dd1?utm_campaign=Software%20Engineering&utm_source=1103)** | Salt Lake City, UT | Remote | Jan 25 |
@@ -415,8 +419,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics](https://www.gd.com)** | **[Entry Level Infrastructure Software Engineer](https://jobright.ai/jobs/info/6972f6a01790715e866be537?utm_campaign=Software%20Engineering&utm_source=1103)** | USA-MA-Pittsfield | Hybrid | Jan 22 |
 | **[Paradigm](http://myparadigm.com/)** | **[Back End Software Developer](https://jobright.ai/jobs/info/69740939206da320f49e1916?utm_campaign=Software%20Engineering&utm_source=1103)** | , United States | On Site | Jan 22 |
 | **[Google](https://www.google.com)** | **[System Software and Performance Architect](https://jobright.ai/jobs/info/69728faa4ccbf64f8df282fc?utm_campaign=Software%20Engineering&utm_source=1103)** | Austin, TX | On Site | Jan 22 |
-| ↳ | **[System Software and Performance Architect](https://jobright.ai/jobs/info/6972920d584a1c1ef6fd8f89?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Jan 22 |
 | ↳ | **[System Software and Performance Architect](https://jobright.ai/jobs/info/69728d484ccbf64f8df27fe2?utm_campaign=Software%20Engineering&utm_source=1103)** | Portland, OR | On Site | Jan 22 |
+| ↳ | **[System Software and Performance Architect](https://jobright.ai/jobs/info/6972920d584a1c1ef6fd8f89?utm_campaign=Software%20Engineering&utm_source=1103)** | Mountain View, CA | On Site | Jan 22 |
 | **[Amazon](https://amazon.com)** | **[Jr. Software Development Engineer - Seattle/ Bellevue, WA, Jr. Developer Program](https://jobright.ai/jobs/info/69728a559b83b424830e7b42?utm_campaign=Software%20Engineering&utm_source=1103)** | Seattle, Washington, USA | On Site | Jan 22 |
 | ↳ | **[Jr. Software Development Engineer - Seattle/ Bellevue, WA, Jr. Developer Program](https://jobright.ai/jobs/info/6972832f584a1c1ef6fd7eb2?utm_campaign=Software%20Engineering&utm_source=1103)** | Bellevue, Washington, USA | On Site | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[QA Tester](https://jobright.ai/jobs/info/697266474ccbf64f8df25ef3?utm_campaign=Software%20Engineering&utm_source=1103)** | Glendale, CA, USA | Hybrid | Jan 22 |
@@ -704,5 +708,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full Stack Engineer (junior-level, secret clearance)](https://jobright.ai/jobs/info/696f70c40f4e0f657ea3b88d?utm_campaign=Software%20Engineering&utm_source=1103)** | Fort Worth, Grand Prairie, King of Prussia, Littleton, Moorestown, Orlando Colorado, Florida, New Jersey, Pennsylvania, Texas | Hybrid | Jan 19 |
 | **[2K](http://2k.com)** | **[Software Development Engineer in Test I (SDET I)](https://jobright.ai/jobs/info/696ec68fdb26b6189511d670?utm_campaign=Software%20Engineering&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jan 19 |
 | **[Pariveda](http://www.parivedasolutions.com)** | **[Software Engineer](https://jobright.ai/jobs/info/69702af0333b6343a14c9304?utm_campaign=Software%20Engineering&utm_source=1103)** | Atlanta | Hybrid | Jan 19 |
-| **[Tenstorrent](http://tenstorrent.com)** | **[GCC Compiler Engineer](https://jobright.ai/jobs/info/6941e8f850bbaf765053b4f3?utm_campaign=Software%20Engineering&utm_source=1103)** | Santa Clara, CA | Remote | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
