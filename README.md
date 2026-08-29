@@ -5,6 +5,8 @@
 
 **This job repository is your go-to resource for discovering and sharing the latest new grad opportunities in:** Software Engineering.
 
+You can also [search and filter the jobs from this repository on openings.dev](https://openings.dev/communities/jobright-ai/2026-Software-Engineer-New-Grad). Each result links back to the original issue for current details and application instructions.
+
 
 ✔️ While this repository includes a fraction of available new grad positions, for a comprehensive list of new grad jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Software%20Engineer&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
